@@ -8,8 +8,9 @@
 
 | Folder | Brand | Floor Plans Covered |
 |---|---|---|
-| *(root)* | Both | Brand comparison + master index |
+| *(root)* | All brands | Brand comparison + master index |
 | [Alliance/](Alliance/) | Alliance RV Delta | 281BH (bunkhouse) · 284RK (rear kitchen) |
+| [Grand Design/](Grand%20Design/) | Grand Design Imagine | 2970RL (rear living) · 2810BH (bunkhouse, 2 slides) · 2800BH (bunkhouse, 1 slide) |
 | [Outdoors RV/](Outdoors%20RV/) | Outdoors RV Titanium | BackCountry 26RPS · BackCountry 28DBS · Blackstone 280RKS · Timber Ridge 28BKS |
 
 ---
@@ -21,6 +22,42 @@
 | [README.md](README.md) | Full repo landing page — brand comparison, critical facts, quick navigation |
 | [00_index.md](00_index.md) | This file — master index of all content |
 | [01 - Alliance Delta vs Outdoors RV BackCountry Comparison](01_comparison_alliance_delta_vs_outdoors_rv_backcountry.md) | Full head-to-head: specs, community sentiment, quality issues, bottom line verdict |
+
+---
+
+## Grand Design Imagine
+
+> Indiana-built aluminum-framed laminated travel trailer. 3/4-ton required (10,195 lb GVWR on all plans). Best warranty in the Elkhart segment (1-3-5 transferable). Largest owner community. OSB subfloor = sealant maintenance is non-optional.
+
+| File | Description |
+|---|---|
+| [README.md](Grand%20Design/README.md) | Grand Design folder hub — all 3 floor plans, 5 factory defects, warranty breakdown, links |
+| [01 - Deep Dive: 2970RL, 2810BH, 2800BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) | Floor plan breakdowns, owner sentiment, documented defects, brand comparison |
+| [02 - PDI Checklist](Grand%20Design/02_pdi_checklist.md) | Pre-delivery inspection checklist — 🔴 CRITICAL factory defects to verify |
+| [03 - PDI Walkthrough Script](Grand%20Design/03_pdi_walkthrough_script.md) | Word-for-word dealership script with GD-specific tests |
+| [04 - Seasonal Maintenance Schedule](Grand%20Design/04_seasonal_maintenance_schedule.md) | TPO rubber roof care, Schwintek slide maintenance, winterization |
+| [05 - Product List](Grand%20Design/05_product_list.md) | GD-specific brands, sourcing, ~$155–180/year estimated annual cost |
+
+### Grand Design Quick Reference
+
+**5 Documented Factory Defects (verify at PDI):**
+1. **Bunk room sliding door off-track** (2800BH/2810BH) — missing floor guide stops. Open/close 3×, push laterally before signing
+2. **Mislabeled gray/black dump valves** — flush test each tank to confirm labels match actual tanks
+3. **GFCI daisy-chain wiring** — run microwave + coffee maker simultaneously; verify no trip
+4. **Roof membrane adhesion** — press all four corners and rear wall seam on the roof; look for lifting
+5. **Refrigerator non-functional at delivery** — thermometer inside, must be below 40°F after 4+ hours on shore power
+
+**Warranty:** 1-year base / 3-year structural / 5-year frame — all transferable to subsequent buyers. Better than Alliance's water damage exclusion trap.
+
+| | 2970RL | 2810BH | 2800BH |
+|---|---|---|---|
+| Best for | Couples/entertainer | Small family | Large family |
+| Dry weight | ~7,810 lbs | ~7,510 lbs | ~7,185 lbs |
+| GVWR | 10,195 lbs | 10,195 lbs | 10,195 lbs |
+| Slides | 2 | 2 | 1 |
+| Sleeps | 6 | 5 | 10 |
+| MSRP (2026) | ~$68,585–$69,650 | ~$67,113 | ~$62,628 |
+| Reliability edge | Inspect rear TPO seam | Bunk door — verify at PDI | 1 slide — fewer failure points |
 
 ---
 
@@ -95,32 +132,37 @@
 
 ## Brand Comparison Cheat Sheet
 
-| | Alliance RV Delta | Outdoors RV Titanium |
-|---|---|---|
-| Build location | Elkhart, Indiana | La Grande, Oregon |
-| Construction | Azdel composite, laminated | Hardwood, plywood sub/roof, welded |
-| Chassis | Standard travel trailer | Custom 8" cambered HD off-road |
-| Suspension | Standard | MorRyde AllTrek CRE4000 + KYB shocks |
-| Four seasons | Basic (enclosed underbelly) | Genuine (triple insulation, heated tanks) |
-| Off-road | No | Yes |
-| Tow vehicle | Half-ton capable | 3/4-ton minimum |
-| Factory QC | Recurring workmanship complaints | Minor component errors; build praised |
-| Warranty | Water damage exclusion trap | Standard — fewer disputes documented |
-| Price range | ~$50K-$75K | ~$70K-$100K+ |
-| Annual maintenance | ~$175 | ~$235-265 |
-| Best for | Lightweight luxury, campground use | Off-road, four-season, backcountry |
+| | Grand Design Imagine | Alliance RV Delta | Outdoors RV Titanium |
+|---|---|---|---|
+| Build location | Middlebury, Indiana | Elkhart, Indiana | La Grande, Oregon |
+| Construction | Aluminum frame, OSB sub, TPO roof | Azdel composite, laminated | Hardwood, plywood sub/roof, welded |
+| Chassis | Norco/BAL steel | Standard travel trailer | Custom 8" cambered HD off-road |
+| Suspension | Standard Dexter | Standard | MorRyde AllTrek CRE4000 + KYB shocks |
+| Four seasons | Basic | Basic (enclosed underbelly) | Genuine (triple insulation, heated tanks) |
+| Off-road | No | No | Yes |
+| Tow vehicle | 3/4-ton (10,195 GVWR) | Half-ton capable | 3/4-ton minimum |
+| Factory QC | Mixed — same Elkhart issues | Recurring workmanship complaints | Minor component errors; build praised |
+| Warranty | 1-3-5 transferable ✅ | Water damage exclusion trap ⚠️ | Standard — fewer disputes documented |
+| Price range | ~$62K–$70K | ~$50K–$75K | ~$70K–$100K+ |
+| Annual maintenance | ~$155–180 | ~$175 | ~$235–265 |
+| Best for | Value, resale, campground use | Lightweight luxury, campground use | Off-road, four-season, backcountry |
 
 ---
 
 ## Key Community Resources
 
-| Resource | Use |
-|---|---|
-| [Alliance RV Owners Forum](https://alliancervowners.com/forum/) | Best Alliance owner community |
-| [iRV2 Alliance Forum](https://www.irv2.com/forums/f284/) | Secondary Alliance community |
-| [iRV2 Outdoors RV Forum](https://www.irv2.com/forums/f282/) | Best ORV owner community |
-| [Living Tiny With A Wolf - 28DBS Review](https://livingtinywithawolf.com/outdoors-rv-review/) | Full-time 28DBS owner review |
-| [RV Insider - Alliance Delta](https://www.rvinsider.com/Alliance-Delta-RV-Reviews?make=Alliance&model=Delta) | Alliance owner ratings |
-| [RV Insider - Outdoors RV BackCountry](https://www.rvinsider.com/Outdoors-Rv-Back-Country-RV-Reviews?make=Outdoors+RV&model=Back+Country) | ORV owner ratings |
-| [Alliance Official](https://alliancerv.com/travel-trailer-delta) | Alliance specs and brochures |
-| [Outdoors RV Official](https://outdoorsrvmfg.com/) | ORV specs and brochures |
+| Resource | Brand | Use |
+|---|---|---|
+| [MyGrandRV.com](https://www.mygrandrv.com/) | Grand Design | Best Grand Design owner forum — active, searchable |
+| [iRV2 Grand Design Forum](https://www.irv2.com/forums/f50/) | Grand Design | Broad community GD threads |
+| [GDRVowners.com](https://www.gdrvowners.com/) | Grand Design | Secondary Grand Design owner community |
+| [RV Insider - Grand Design Imagine](https://www.rvinsider.com/Grand-Design-Imagine-RV-Reviews?make=Grand+Design&model=Imagine) | Grand Design | Aggregated owner ratings |
+| [Alliance RV Owners Forum](https://alliancervowners.com/forum/) | Alliance | Best Alliance owner community |
+| [iRV2 Alliance Forum](https://www.irv2.com/forums/f284/) | Alliance | Secondary Alliance community |
+| [iRV2 Outdoors RV Forum](https://www.irv2.com/forums/f282/) | Outdoors RV | Best ORV owner community |
+| [Living Tiny With A Wolf - 28DBS Review](https://livingtinywithawolf.com/outdoors-rv-review/) | Outdoors RV | Full-time 28DBS owner review |
+| [RV Insider - Alliance Delta](https://www.rvinsider.com/Alliance-Delta-RV-Reviews?make=Alliance&model=Delta) | Alliance | Alliance owner ratings |
+| [RV Insider - Outdoors RV BackCountry](https://www.rvinsider.com/Outdoors-Rv-Back-Country-RV-Reviews?make=Outdoors+RV&model=Back+Country) | Outdoors RV | ORV owner ratings |
+| [Grand Design Official](https://www.granddesignrv.com/travel-trailers/imagine) | Grand Design | GD specs, brochures, warranty docs |
+| [Alliance Official](https://alliancerv.com/travel-trailer-delta) | Alliance | Alliance specs and brochures |
+| [Outdoors RV Official](https://outdoorsrvmfg.com/) | Outdoors RV | ORV specs and brochures |
