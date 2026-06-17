@@ -28,6 +28,29 @@ PORT = int(sys.argv[2]) if len(sys.argv) > 2 else 8080
 
 BRAND_ORDER = ["Alliance", "Ember RV", "Grand Design", "Keystone RV", "Lance", "Outdoors RV"]
 
+BRAND_COLORS = {
+    "Overview":    "#58a6ff",
+    "Alliance":    "#f0883e",
+    "Ember RV":    "#e05c2e",
+    "Grand Design":"#3fb950",
+    "Keystone RV": "#79c0ff",
+    "Lance":       "#a371f7",
+    "Outdoors RV": "#56d364",
+}
+
+def doc_type(stem: str) -> str:
+    s = stem.lower()
+    if s == "readme":         return ""
+    if "index"      in s:    return "index"
+    if "comparison" in s:    return "compare"
+    if "deep_dive"  in s:    return "dive"
+    if "pdi_addition" in s:  return "pdi"
+    if "pdi_checklist" in s: return "pdi"
+    if "walkthrough" in s:   return "script"
+    if "maintenance" in s:   return "maint"
+    if "product"    in s:    return "products"
+    return ""
+
 LABELS = {
     "README":                                              "Overview",
     "00_index":                                            "Master Index",
@@ -63,7 +86,8 @@ def build_tree() -> list:
     if root_files:
         tree.append({
             "label": "Overview",
-            "files": [{"name": label(f), "path": f.name} for f in root_files],
+            "color": BRAND_COLORS["Overview"],
+            "files": [{"name": label(f), "path": f.name, "badge": doc_type(f.stem)} for f in root_files],
         })
     for brand in BRAND_ORDER:
         folder = REPO / brand
@@ -72,7 +96,8 @@ def build_tree() -> list:
         files = sorted(folder.glob("*.md"), key=lambda f: (f.stem != "README", f.name))
         tree.append({
             "label": brand,
-            "files": [{"name": label(f), "path": f"{brand}/{f.name}"} for f in files],
+            "color": BRAND_COLORS.get(brand, "#58a6ff"),
+            "files": [{"name": label(f), "path": f"{brand}/{f.name}", "badge": doc_type(f.stem)} for f in files],
         })
     return tree
 
@@ -144,13 +169,25 @@ body{display:flex;height:100vh;font:14px/1.5 -apple-system,BlinkMacSystemFont,"S
 #sidebar-hd h1{font-size:13px;font-weight:700;color:var(--head);text-transform:uppercase;letter-spacing:.6px}
 #sidebar-hd p{font-size:11px;color:var(--muted);margin-top:2px}
 #nav{overflow-y:auto;flex:1;padding:6px 0}
-.g-label{padding:10px 16px 3px;font-size:10px;font-weight:700;
-          color:var(--muted);text-transform:uppercase;letter-spacing:.8px}
-.nav-btn{display:block;width:100%;padding:5px 14px 5px 22px;background:none;border:none;
-         text-align:left;color:var(--muted);font-size:13px;cursor:pointer;
-         white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.nav-btn:hover{background:rgba(88,166,255,.08);color:var(--text)}
-.nav-btn.active{background:rgba(88,166,255,.14);color:var(--accent)}
+.g-label{padding:10px 14px 3px 13px;font-size:10px;font-weight:700;
+          color:var(--muted);text-transform:uppercase;letter-spacing:.8px;
+          border-left:3px solid transparent;margin-bottom:1px}
+.nav-btn{display:flex;align-items:center;gap:6px;width:100%;
+         padding:5px 10px 5px 22px;background:none;border:none;
+         text-align:left;color:var(--muted);font-size:13px;cursor:pointer}
+.nav-btn:hover{background:rgba(255,255,255,.05);color:var(--text)}
+.nav-btn.active{color:#fff}
+.nav-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;min-width:0}
+/* ── doc-type badges ── */
+.badge{flex-shrink:0;font-size:9px;font-weight:700;letter-spacing:.4px;
+       text-transform:uppercase;padding:1px 5px;border-radius:3px}
+.b-dive    {background:#0d2d6b;color:#79c0ff}
+.b-pdi     {background:#4a2500;color:#f0883e}
+.b-script  {background:#2a1a45;color:#a371f7}
+.b-maint   {background:#0a2a0a;color:#56d364}
+.b-products{background:#0d2040;color:#58a6ff}
+.b-compare {background:#0a2828;color:#39c9bb}
+.b-index   {background:#202020;color:#8b949e}
 
 /* ── main ── */
 #main{flex:1;display:flex;flex-direction:column;overflow:hidden;min-width:0}
@@ -220,33 +257,73 @@ marked.use({ breaks: true, gfm: true });
 
 let active = null;
 
+function rgba(hex, a) {
+  const r = parseInt(hex.slice(1,3),16);
+  const g = parseInt(hex.slice(3,5),16);
+  const b = parseInt(hex.slice(5,7),16);
+  return `rgba(${r},${g},${b},${a})`;
+}
+
 async function loadTree() {
   const r = await fetch('/api/tree');
   const tree = await r.json();
   const nav = document.getElementById('nav');
   for (const section of tree) {
+    const color = section.color || '#58a6ff';
     const lbl = document.createElement('div');
     lbl.className = 'g-label';
     lbl.textContent = section.label;
+    lbl.style.color = color;
+    lbl.style.borderLeftColor = color;
     nav.appendChild(lbl);
     for (const file of section.files) {
       const btn = document.createElement('button');
       btn.className = 'nav-btn';
-      btn.textContent = file.name;
       btn.title = file.path;
       btn.dataset.path = file.path;
-      btn.onclick = () => open(file.path, file.name, btn);
+      btn.dataset.color = color;
+
+      const nameSpan = document.createElement('span');
+      nameSpan.className = 'nav-name';
+      nameSpan.textContent = file.name;
+      btn.appendChild(nameSpan);
+
+      if (file.badge) {
+        const badge = document.createElement('span');
+        badge.className = 'badge b-' + file.badge;
+        badge.textContent = file.badge === 'dive' ? 'Deep Dive'
+          : file.badge === 'pdi'      ? 'PDI'
+          : file.badge === 'script'   ? 'Script'
+          : file.badge === 'maint'    ? 'Maint'
+          : file.badge === 'products' ? 'Products'
+          : file.badge === 'compare'  ? 'Compare'
+          : file.badge === 'index'    ? 'Index'
+          : file.badge;
+        btn.appendChild(badge);
+      }
+
+      btn.onclick = () => openDoc(file.path, file.name, btn, color);
       nav.appendChild(btn);
     }
   }
 }
 
-async function open(path, name, btn) {
-  if (active) active.classList.remove('active');
+async function openDoc(path, name, btn, color) {
+  if (active) {
+    active.classList.remove('active');
+    active.style.background = '';
+    active.style.color = '';
+  }
   active = btn;
   btn.classList.add('active');
+  btn.style.background = rgba(color, 0.12);
+  btn.style.color = color;
+
+  const bar = document.getElementById('bar');
+  bar.style.borderBottomColor = rgba(color, 0.4);
   document.getElementById('doc-title').textContent = name;
-  document.getElementById('doc-title').style.color = 'var(--head)';
+  document.getElementById('doc-title').style.color = color;
+
   const md = document.getElementById('md');
   md.innerHTML = '<p style="color:var(--muted)">Loading…</p>';
   try {
