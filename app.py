@@ -102,6 +102,7 @@ BRAND_LINKS = {
             {"label": "BS 250RDS", "url": "https://www.outdoorsrvmfg.com/black-stone-250rds/"},
             {"label": "BS 260KRS", "url": "https://www.outdoorsrvmfg.com/black-stone-260krs/"},
             {"label": "BS 280RKS", "url": "https://www.outdoorsrvmfg.com/black-stone-280rks/"},
+            {"label": "BS 260KVS", "url": "https://outdoorsrvmfg.com/black-stone-260kvs/"},
         ],
         "forum":  {"label": "iRV2 Outdoors RV", "url": "https://www.irv2.com/forums/f370/"},
     },
@@ -143,6 +144,8 @@ LABELS = {
     "01_deep_dive_all_4_floor_plans":                      "Deep Dive — Original 4 Plans",
     "06_deep_dive_250rks_250rds_260krs_25dvs":             "Deep Dive — New Floor Plans",
     "07_pdi_additions_250rks_250rds_260krs_25dvs":         "PDI Additions — New Floor Plans",
+    "08_deep_dive_260kvs":                                  "Deep Dive — Blackstone 260KVS",
+    "09_pdi_additions_260kvs":                              "PDI Additions — Blackstone 260KVS",
 }
 
 def label(path: Path) -> str:
