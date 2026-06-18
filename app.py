@@ -38,6 +38,68 @@ BRAND_COLORS = {
     "Outdoors RV": "#56d364",
 }
 
+# External links per brand.
+# NOTE: model-specific URLs follow common manufacturer patterns — verify any that 404.
+BRAND_LINKS = {
+    "Alliance": {
+        "site":   {"label": "Alliance RV",     "url": "https://alliancerv.com/product-lines/delta/"},
+        "models": [
+            {"label": "Delta 281BH", "url": "https://alliancerv.com/delta-281bh/"},
+            {"label": "Delta 284RK", "url": "https://alliancerv.com/delta-284rk/"},
+        ],
+        "forum":  {"label": "iRV2 Alliance",   "url": "https://www.irv2.com/forums/f447/"},
+    },
+    "Ember RV": {
+        "site":   {"label": "Ember RV",        "url": "https://emberrv.com/travel-trailers/"},
+        "models": [
+            {"label": "221MSL",  "url": "https://emberrv.com/travel-trailers/221msl/"},
+            {"label": "26ETS",   "url": "https://emberrv.com/travel-trailers/26ets/"},
+            {"label": "2500RDL", "url": "https://emberrv.com/travel-trailers/2500rdl/"},
+        ],
+        "forum":  {"label": "iRV2 Ember",      "url": "https://www.irv2.com/forums/f504/"},
+    },
+    "Grand Design": {
+        "site":   {"label": "GD Imagine",      "url": "https://granddesignrv.com/product-lines/imagine/"},
+        "models": [
+            {"label": "2970RL", "url": "https://granddesignrv.com/imagine-2970rl/"},
+            {"label": "2810BH", "url": "https://granddesignrv.com/imagine-2810bh/"},
+            {"label": "2800BH", "url": "https://granddesignrv.com/imagine-2800bh/"},
+        ],
+        "forum":  {"label": "GD Forum",        "url": "https://www.granddesignforum.com/"},
+    },
+    "Keystone RV": {
+        "site":   {"label": "Keystone Outback", "url": "https://keystonerv.com/product/outback/"},
+        "models": [
+            {"label": "28BHWE", "url": "https://keystonerv.com/outback-28bhwe/"},
+            {"label": "28BHS",  "url": "https://keystonerv.com/outback-28bhs/"},
+            {"label": "29RLP",  "url": "https://keystonerv.com/outback-29rlp/"},
+            {"label": "252RD",  "url": "https://keystonerv.com/outback-252rd/"},
+        ],
+        "forum":  {"label": "Keystone Forum",  "url": "https://www.keystonerv.net/"},
+    },
+    "Lance": {
+        "site":   {"label": "Lance",            "url": "https://lancecamper.com/travel-trailers/"},
+        "models": [
+            {"label": "Evolve 2685", "url": "https://lancecamper.com/travel-trailers/evolve-2685/"},
+            {"label": "2465",        "url": "https://lancecamper.com/travel-trailers/2465/"},
+            {"label": "2565",        "url": "https://lancecamper.com/travel-trailers/2565/"},
+        ],
+        "forum":  {"label": "iRV2 Lance",       "url": "https://www.irv2.com/forums/f184/"},
+    },
+    "Outdoors RV": {
+        "site":   {"label": "Outdoors RV",      "url": "https://www.outdoorsrv.com/"},
+        "models": [
+            {"label": "BC 25DVS",  "url": "https://www.outdoorsrv.com/backcountry-series/25dvs/"},
+            {"label": "BC 26RPS",  "url": "https://www.outdoorsrv.com/backcountry-series/26rps/"},
+            {"label": "BS 250RKS", "url": "https://www.outdoorsrv.com/blackstone-series/250rks/"},
+            {"label": "BS 250RDS", "url": "https://www.outdoorsrv.com/blackstone-series/250rds/"},
+            {"label": "BS 260KRS", "url": "https://www.outdoorsrv.com/blackstone-series/260krs/"},
+            {"label": "BS 280RKS", "url": "https://www.outdoorsrv.com/blackstone-series/280rks/"},
+        ],
+        "forum":  {"label": "iRV2 Outdoors RV", "url": "https://www.irv2.com/forums/f370/"},
+    },
+}
+
 def doc_type(stem: str) -> str:
     s = stem.lower()
     if s == "readme":         return ""
@@ -98,6 +160,7 @@ def build_tree() -> list:
             "label": brand,
             "color": BRAND_COLORS.get(brand, "#58a6ff"),
             "files": [{"name": label(f), "path": f"{brand}/{f.name}", "badge": doc_type(f.stem)} for f in files],
+            "links": BRAND_LINKS.get(brand),
         })
     return tree
 
@@ -171,7 +234,8 @@ body{display:flex;height:100vh;font:14px/1.5 -apple-system,BlinkMacSystemFont,"S
 #nav{overflow-y:auto;flex:1;padding:6px 0}
 .g-label{padding:10px 14px 3px 13px;font-size:10px;font-weight:700;
           color:var(--muted);text-transform:uppercase;letter-spacing:.8px;
-          border-left:3px solid transparent;margin-bottom:1px}
+          border-left:3px solid transparent;margin-bottom:1px;
+          display:flex;align-items:center;justify-content:space-between}
 .nav-btn{display:flex;align-items:center;gap:6px;width:100%;
          padding:5px 10px 5px 22px;background:none;border:none;
          text-align:left;color:var(--muted);font-size:13px;cursor:pointer}
@@ -188,6 +252,16 @@ body{display:flex;height:100vh;font:14px/1.5 -apple-system,BlinkMacSystemFont,"S
 .b-products{background:#0d2040;color:#58a6ff}
 .b-compare {background:#0a2828;color:#39c9bb}
 .b-index   {background:#202020;color:#8b949e}
+
+/* ── external links ── */
+.link-icons{display:flex;gap:5px;padding-right:2px;flex-shrink:0}
+.link-icon{font-size:12px;opacity:.4;text-decoration:none;line-height:1;transition:opacity .15s}
+.link-icon:hover{opacity:1}
+.model-row{display:flex;flex-wrap:wrap;gap:3px;padding:2px 10px 8px 22px}
+.model-tag{font-size:9px;font-weight:600;letter-spacing:.3px;padding:2px 7px;
+           border-radius:3px;border:1px solid var(--border);color:var(--muted);
+           background:transparent;text-decoration:none;white-space:nowrap;transition:all .15s}
+.model-tag:hover{color:var(--text);border-color:var(--muted);background:rgba(255,255,255,.05)}
 
 /* ── main ── */
 #main{flex:1;display:flex;flex-direction:column;overflow:hidden;min-width:0}
@@ -272,10 +346,42 @@ async function loadTree() {
     const color = section.color || '#58a6ff';
     const lbl = document.createElement('div');
     lbl.className = 'g-label';
-    lbl.textContent = section.label;
     lbl.style.color = color;
     lbl.style.borderLeftColor = color;
+
+    const lblText = document.createElement('span');
+    lblText.textContent = section.label;
+    lbl.appendChild(lblText);
+
+    if (section.links) {
+      const icons = document.createElement('span');
+      icons.className = 'link-icons';
+      const iconDefs = [
+        section.links.site  && { href: section.links.site.url,  title: section.links.site.label,  icon: '🌐' },
+        section.links.forum && { href: section.links.forum.url, title: section.links.forum.label, icon: '💬' },
+      ].filter(Boolean);
+      for (const d of iconDefs) {
+        const a = document.createElement('a');
+        a.href = d.href; a.target = '_blank'; a.rel = 'noopener noreferrer';
+        a.title = d.title; a.className = 'link-icon'; a.textContent = d.icon;
+        icons.appendChild(a);
+      }
+      lbl.appendChild(icons);
+    }
     nav.appendChild(lbl);
+
+    if (section.links && section.links.models && section.links.models.length) {
+      const row = document.createElement('div');
+      row.className = 'model-row';
+      for (const m of section.links.models) {
+        const a = document.createElement('a');
+        a.href = m.url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+        a.className = 'model-tag'; a.textContent = m.label;
+        row.appendChild(a);
+      }
+      nav.appendChild(row);
+    }
+
     for (const file of section.files) {
       const btn = document.createElement('button');
       btn.className = 'nav-btn';
