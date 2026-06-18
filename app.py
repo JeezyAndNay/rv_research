@@ -45,7 +45,7 @@ BRAND_LINKS = {
         "site":   {"label": "Alliance RV",     "url": "https://alliancerv.com/product-lines/delta/"},
         "models": [
             {"label": "Delta 281BH", "url": "https://alliancerv.com/floorplan/delta/281bh/"},
-            {"label": "Delta 284RK", "url": "https://alliancerv.com/delta/284rk/"},
+            {"label": "Delta 284RK", "url": "https://alliancerv.com/floorplan/delta/284rk/"},
         ],
         "forum":  {"label": "iRV2 Alliance",   "url": "https://www.irv2.com/forums/f447/"},
     },
@@ -61,19 +61,20 @@ BRAND_LINKS = {
     "Grand Design": {
         "site":   {"label": "GD Imagine",      "url": "https://granddesignrv.com/product-lines/imagine/"},
         "models": [
-            {"label": "2970RL", "url": "https://granddesignrv.com/travel-trailers/imagine-2970rl/"},
-            {"label": "2810BH", "url": "https://granddesignrv.com/travel-trailers/imagine-2810bh/"},
-            {"label": "2800BH", "url": "https://granddesignrv.com/imagine-2800bh/"},
-        ],
+            {"label": "2970RL", "url": "https://granddesignrv.com/travel-trailers/imagine/2970rl/"},
+            {"label": "2810BH", "url": "https://granddesignrv.com/travel-trailers/imagine/2810bh/"},
+            {"label": "2800BH", "url": "https://granddesignrv.com/travel-trailers/imagine/2800bh/"},
+            
+                    ],
         "forum":  {"label": "GD Forum",        "url": "https://www.granddesignforum.com/"},
     },
     "Keystone RV": {
         "site":   {"label": "Keystone Outback", "url": "https://keystonerv.com/product/outback/"},
         "models": [
-            {"label": "28BHWE", "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28bhwe/"},
-            {"label": "28BHS",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28bhs/"},
-            {"label": "29RLP",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/29rlp/"},
-            {"label": "252RD",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/252rd/"},
+            {"label": "28BHWE", "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28BHWE/"},
+            {"label": "28BHS",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28BHS/"},
+            {"label": "29RLP",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/29RLP/"},
+            {"label": "252RD",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/252RD/"},
         ],
         "forum":  {"label": "Keystone Forum",  "url": "https://www.keystonerv.net/"},
     },
@@ -89,12 +90,12 @@ BRAND_LINKS = {
     "Outdoors RV": {
         "site":   {"label": "Outdoors RV",      "url": "https://www.outdoorsrv.com/"},
         "models": [
-            {"label": "BC 25DVS",  "url": "https://www.outdoorsrv.com/back-country-25dvs/"},
-            {"label": "BC 26RPS",  "url": "https://www.outdoorsrv.com/back-country-26rps/"},
-            {"label": "BS 250RKS", "url": "https://www.outdoorsrv.com/black-stone-250rks/"},
-            {"label": "BS 250RDS", "url": "https://www.outdoorsrv.com/black-stone-250rds/"},
-            {"label": "BS 260KRS", "url": "https://www.outdoorsrv.com/black-stone-260krs/"},
-            {"label": "BS 280RKS", "url": "https://www.outdoorsrv.com/black-stone-280rks/"},
+            {"label": "BC 25DVS",  "url": "https://www.outdoorsrvmfg.com/back-country-25dvs/"},
+            {"label": "BC 26RPS",  "url": "https://www.outdoorsrvmfg.com/back-country-26rps/"},
+            {"label": "BS 250RKS", "url": "https://www.outdoorsrvmfg.com/black-stone-250rks/"},
+            {"label": "BS 250RDS", "url": "https://www.outdoorsrvmfg.com/black-stone-250rds/"},
+            {"label": "BS 260KRS", "url": "https://www.outdoorsrvmfg.com/black-stone-260krs/"},
+            {"label": "BS 280RKS", "url": "https://www.outdoorsrvmfg.com/black-stone-280rks/"},
         ],
         "forum":  {"label": "iRV2 Outdoors RV", "url": "https://www.irv2.com/forums/f370/"},
     },
