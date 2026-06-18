@@ -42,7 +42,7 @@ BRAND_COLORS = {
 # NOTE: model-specific URLs follow common manufacturer patterns — verify any that 404.
 BRAND_LINKS = {
     "Alliance": {
-        "logo":   "https://yt3.googleusercontent.com/gb_r4UJPxdM-2MIK5HdWuDNaMoqN5Qsp4F1C9_K2a0iVpDSKswcX9aoVfNZwh-f7ZzDtB1zpqw=s900-c-k-c0x00ffffff-no-rj",
+        "logo":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjugDqLhboebrCWQizrPsJ4QnNijgiwK0dLg&s",
         "site":   {"label": "Alliance RV",     "url": "https://alliancerv.com/product-lines/delta/"},
         "models": [
             {"label": "Delta 281BH", "url": "https://alliancerv.com/floorplan/delta/281bh/"},
