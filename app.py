@@ -42,7 +42,7 @@ BRAND_COLORS = {
 # NOTE: model-specific URLs follow common manufacturer patterns — verify any that 404.
 BRAND_LINKS = {
     "Alliance": {
-        "logo":   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjugDqLhboebrCWQizrPsJ4QnNijgiwK0dLg&s",
+        "logo":   "https://cdn.sanity.io/images/6o1m6b3k/production/820a83ce11ff73bda426213a610bd530156e20a8-219x135.png",
         "site":   {"label": "Alliance RV",     "url": "https://alliancerv.com/product-lines/delta/"},
         "models": [
             {"label": "Delta 281BH", "url": "https://alliancerv.com/floorplan/delta/281bh/"},
@@ -83,7 +83,7 @@ BRAND_LINKS = {
         "forum":  {"label": "Keystone Forum",  "url": "https://www.keystonerv.net/"},
     },
     "Lance": {
-        "logo":   "https://d2pnvl0j0g3wco.cloudfront.net/images/lance-mfg-logo.jpg",
+        "logo":   "https://play-lh.googleusercontent.com/vF3t2rezLySi6SjXw4XJsQiYLotNQffr9Ojq9H97M7J4vv80CFGDQMHcGJ8FhcWrT1pqExEoQPPkvWa0gSbY",
         "site":   {"label": "Lance",            "url": "https://lancecamper.com/travel-trailers/"},
         "models": [
             {"label": "Evolve 2685", "url": "https://lancecamper.com/evolve/travel-trailers/2685/"},
@@ -93,7 +93,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Lance",       "url": "https://www.irv2.com/forums/f184/"},
     },
     "Outdoors RV": {
-        "logo":   "https://outdoorsrvmfg.com/wp-content/uploads/2017/05/ORV-Logo-Front-for-slider-1.png",
+        "logo":   "https://i.ytimg.com/vi/8GH67PQ-VVM/maxresdefault.jpg",
         "site":   {"label": "Outdoors RV",      "url": "https://www.outdoorsrvmfg.com/"},
         "models": [
             {"label": "BC 25DVS",  "url": "https://www.outdoorsrvmfg.com/back-country-25dvs/"},
