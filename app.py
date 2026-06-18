@@ -51,7 +51,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Alliance",   "url": "https://www.irv2.com/forums/f447/"},
     },
     "Ember RV": {
-        "logo":   "https://logo.clearbit.com/emberrv.com",
+        "logo":   "https://www.emberrv.com/wp-content/themes/ff-bulma/assets/images/navbar_brand_white.svg",
         "site":   {"label": "Ember RV",        "url": "https://emberrv.com/travel-trailers/"},
         "models": [
             {"label": "221MSL",  "url": "https://emberrv.com/travel-trailers/221msl/"},
@@ -61,7 +61,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Ember",      "url": "https://www.irv2.com/forums/f504/"},
     },
     "Grand Design": {
-        "logo":   "https://logo.clearbit.com/granddesignrv.com",
+        "logo":   "https://granddesignrv.applicantpro.com/",
         "site":   {"label": "GD Imagine",      "url": "https://granddesignrv.com/product-lines/imagine/"},
         "models": [
             {"label": "2970RL", "url": "https://granddesignrv.com/travel-trailers/imagine/2970rl/"},
@@ -72,7 +72,7 @@ BRAND_LINKS = {
         "forum":  {"label": "GD Forum",        "url": "https://www.granddesignforum.com/"},
     },
     "Keystone RV": {
-        "logo":   "https://logo.clearbit.com/keystonerv.com",
+        "logo":   "https://recalls.keystonerv.com/images/keystone.png",
         "site":   {"label": "Keystone Outback", "url": "https://keystonerv.com/product/outback/"},
         "models": [
             {"label": "28BHWE", "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28BHWE"},
@@ -83,7 +83,7 @@ BRAND_LINKS = {
         "forum":  {"label": "Keystone Forum",  "url": "https://www.keystonerv.net/"},
     },
     "Lance": {
-        "logo":   "https://logo.clearbit.com/lancecamper.com",
+        "logo":   "https://d2pnvl0j0g3wco.cloudfront.net/images/lance-mfg-logo.jpg",
         "site":   {"label": "Lance",            "url": "https://lancecamper.com/travel-trailers/"},
         "models": [
             {"label": "Evolve 2685", "url": "https://lancecamper.com/evolve/travel-trailers/2685/"},
@@ -93,7 +93,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Lance",       "url": "https://www.irv2.com/forums/f184/"},
     },
     "Outdoors RV": {
-        "logo":   "https://logo.clearbit.com/outdoorsrvmfg.com",
+        "logo":   "https://outdoorsrvmfg.com/wp-content/uploads/2017/05/ORV-Logo-Front-for-slider-1.png",
         "site":   {"label": "Outdoors RV",      "url": "https://www.outdoorsrvmfg.com/"},
         "models": [
             {"label": "BC 25DVS",  "url": "https://www.outdoorsrvmfg.com/back-country-25dvs/"},
