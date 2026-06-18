@@ -44,8 +44,8 @@ BRAND_LINKS = {
     "Alliance": {
         "site":   {"label": "Alliance RV",     "url": "https://alliancerv.com/product-lines/delta/"},
         "models": [
-            {"label": "Delta 281BH", "url": "https://alliancerv.com/floorplan/delta-281bh/"},
-            {"label": "Delta 284RK", "url": "https://alliancerv.com/delta-284rk/"},
+            {"label": "Delta 281BH", "url": "https://alliancerv.com/floorplan/delta/281bh/"},
+            {"label": "Delta 284RK", "url": "https://alliancerv.com/delta/284rk/"},
         ],
         "forum":  {"label": "iRV2 Alliance",   "url": "https://www.irv2.com/forums/f447/"},
     },
