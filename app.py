@@ -42,6 +42,7 @@ BRAND_COLORS = {
 # NOTE: model-specific URLs follow common manufacturer patterns — verify any that 404.
 BRAND_LINKS = {
     "Alliance": {
+        "logo":   "https://logo.clearbit.com/alliancerv.com",
         "site":   {"label": "Alliance RV",     "url": "https://alliancerv.com/product-lines/delta/"},
         "models": [
             {"label": "Delta 281BH", "url": "https://alliancerv.com/floorplan/delta/281bh/"},
@@ -50,6 +51,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Alliance",   "url": "https://www.irv2.com/forums/f447/"},
     },
     "Ember RV": {
+        "logo":   "https://logo.clearbit.com/emberrv.com",
         "site":   {"label": "Ember RV",        "url": "https://emberrv.com/travel-trailers/"},
         "models": [
             {"label": "221MSL",  "url": "https://emberrv.com/travel-trailers/221msl/"},
@@ -59,6 +61,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Ember",      "url": "https://www.irv2.com/forums/f504/"},
     },
     "Grand Design": {
+        "logo":   "https://logo.clearbit.com/granddesignrv.com",
         "site":   {"label": "GD Imagine",      "url": "https://granddesignrv.com/product-lines/imagine/"},
         "models": [
             {"label": "2970RL", "url": "https://granddesignrv.com/travel-trailers/imagine/2970rl/"},
@@ -69,6 +72,7 @@ BRAND_LINKS = {
         "forum":  {"label": "GD Forum",        "url": "https://www.granddesignforum.com/"},
     },
     "Keystone RV": {
+        "logo":   "https://logo.clearbit.com/keystonerv.com",
         "site":   {"label": "Keystone Outback", "url": "https://keystonerv.com/product/outback/"},
         "models": [
             {"label": "28BHWE", "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28BHWE"},
@@ -79,6 +83,7 @@ BRAND_LINKS = {
         "forum":  {"label": "Keystone Forum",  "url": "https://www.keystonerv.net/"},
     },
     "Lance": {
+        "logo":   "https://logo.clearbit.com/lancecamper.com",
         "site":   {"label": "Lance",            "url": "https://lancecamper.com/travel-trailers/"},
         "models": [
             {"label": "Evolve 2685", "url": "https://lancecamper.com/evolve/travel-trailers/2685/"},
@@ -88,6 +93,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Lance",       "url": "https://www.irv2.com/forums/f184/"},
     },
     "Outdoors RV": {
+        "logo":   "https://logo.clearbit.com/outdoorsrvmfg.com",
         "site":   {"label": "Outdoors RV",      "url": "https://www.outdoorsrvmfg.com/"},
         "models": [
             {"label": "BC 25DVS",  "url": "https://www.outdoorsrvmfg.com/back-country-25dvs/"},
@@ -265,10 +271,14 @@ body{display:flex;height:100vh;font:14px/1.5 -apple-system,BlinkMacSystemFont,"S
 .model-tag:hover{color:var(--text);border-color:var(--muted);background:rgba(255,255,255,.05)}
 
 /* ── main ── */
-#main{flex:1;display:flex;flex-direction:column;overflow:hidden;min-width:0}
+#main{flex:1;display:flex;flex-direction:column;overflow:hidden;min-width:0;position:relative}
 #bar{padding:9px 20px;border-bottom:1px solid var(--border);
      display:flex;align-items:center;flex-shrink:0;min-height:40px}
 #doc-title{font-size:13px;font-weight:600;color:var(--muted)}
+/* logo watermark — sits behind content, adjust opacity here (default .10) */
+#logo-bg{position:absolute;top:40px;left:0;right:0;bottom:0;
+         background-repeat:no-repeat;background-position:center;background-size:45%;
+         opacity:.10;pointer-events:none;transition:background-image .35s,opacity .35s}
 #scroll{flex:1;overflow-y:auto;padding:32px 48px}
 #md{max-width:840px}
 
@@ -320,6 +330,7 @@ body{display:flex;height:100vh;font:14px/1.5 -apple-system,BlinkMacSystemFont,"S
 
 <div id="main">
   <div id="bar"><span id="doc-title">Select a document</span></div>
+  <div id="logo-bg"></div>
   <div id="scroll">
     <div id="md">
       <div id="empty"><span>&#128196;</span><p>Select a document from the sidebar</p></div>
@@ -389,6 +400,7 @@ async function loadTree() {
       btn.title = file.path;
       btn.dataset.path = file.path;
       btn.dataset.color = color;
+      btn.dataset.logo = (section.links && section.links.logo) || '';
 
       const nameSpan = document.createElement('span');
       nameSpan.className = 'nav-name';
@@ -430,6 +442,9 @@ async function openDoc(path, name, btn, color) {
   bar.style.borderBottomColor = rgba(color, 0.4);
   document.getElementById('doc-title').textContent = name;
   document.getElementById('doc-title').style.color = color;
+
+  const lb = document.getElementById('logo-bg');
+  lb.style.backgroundImage = btn.dataset.logo ? `url('${btn.dataset.logo}')` : 'none';
 
   const md = document.getElementById('md');
   md.innerHTML = '<p style="color:var(--muted)">Loading…</p>';
