@@ -26,7 +26,7 @@ from urllib.parse import urlparse, unquote, parse_qs
 REPO = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else Path.cwd()
 PORT = int(sys.argv[2]) if len(sys.argv) > 2 else 8080
 
-BRAND_ORDER = ["Alliance", "Ember RV", "Grand Design", "Keystone RV", "Lance", "Outdoors RV"]
+BRAND_ORDER = ["Outdoors RV", "Alliance", "Ember RV", "Grand Design", "Keystone RV", "Lance"]
 
 BRAND_COLORS = {
     "Overview":    "#58a6ff",
@@ -61,7 +61,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Ember",      "url": "https://www.irv2.com/forums/f504/"},
     },
     "Grand Design": {
-        "logo":   "https://granddesignrv.applicantpro.com/",
+        "logo":   "https://sandandsunrv.com/wp-content/uploads/2023/11/MerchStore-GDLogo.png",
         "site":   {"label": "GD Imagine",      "url": "https://granddesignrv.com/product-lines/imagine/"},
         "models": [
             {"label": "2970RL", "url": "https://granddesignrv.com/travel-trailers/imagine/2970rl/"},
