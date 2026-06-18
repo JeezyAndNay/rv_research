@@ -71,10 +71,10 @@ BRAND_LINKS = {
     "Keystone RV": {
         "site":   {"label": "Keystone Outback", "url": "https://keystonerv.com/product/outback/"},
         "models": [
-            {"label": "28BHWE", "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28BHWE/"},
-            {"label": "28BHS",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28BHS/"},
-            {"label": "29RLP",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/29RLP/"},
-            {"label": "252RD",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/252RD/"},
+            {"label": "28BHWE", "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28BHWE"},
+            {"label": "28BHS",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/28BHS"},
+            {"label": "29RLP",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/29RLP"},
+            {"label": "252RD",  "url": "https://keystonerv.com/product/cougar-western-elevation/premium-travel-trailers/floorplans/252RD"},
         ],
         "forum":  {"label": "Keystone Forum",  "url": "https://www.keystonerv.net/"},
     },
