@@ -88,7 +88,7 @@ BRAND_LINKS = {
         "forum":  {"label": "iRV2 Lance",       "url": "https://www.irv2.com/forums/f184/"},
     },
     "Outdoors RV": {
-        "site":   {"label": "Outdoors RV",      "url": "https://www.outdoorsrv.com/"},
+        "site":   {"label": "Outdoors RV",      "url": "https://www.outdoorsrvmfg.com/"},
         "models": [
             {"label": "BC 25DVS",  "url": "https://www.outdoorsrvmfg.com/back-country-25dvs/"},
             {"label": "BC 26RPS",  "url": "https://www.outdoorsrvmfg.com/back-country-26rps/"},
