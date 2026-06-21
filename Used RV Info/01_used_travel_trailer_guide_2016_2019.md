@@ -93,7 +93,7 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ### Jayco Eagle HT (Travel Trailer) — ⚠️ Outside Your Size Range
 
-**The Eagle HT TT does not fit the 28–35 ft total spec.** The confirmed TT floor plans in this era are the 314BHDS (37'3" total) and 324BHTS (38'+ total). Both exceed the ceiling by more than 2 feet. No Eagle HT TT floor plan fits the 28–35 ft total range in 2016–2019.
+**The Eagle HT TT does not fit the 28–35 ft total spec.** Confirmed TT floor plans in the 2016–2019 era: 295DBOK (37'10" total), 306RKDS, 314BHDS (37'3"–37'10" total depending on year), 324BHTS (38'+ total), 338RETS (~40 ft+ total). Every confirmed model exceeds the 35 ft ceiling by at least 2 feet. There are no Eagle HT TT floor plans in this era that fit the 28–35 ft range.
 
 **Naming minefield — read this before searching:**
 - **Jayco Eagle (no HT)** — fifth wheel line. Not a travel trailer.
@@ -282,9 +282,8 @@ All lengths below are **total trailer length**.
 | Outdoors RV BackCountry 28DBS | ~28 ft | 33'0" | Bunkhouse, most reviewed ORV model — verify year availability |
 | Outdoors RV Timber Ridge 28BKS | ~28 ft | 32'8" | Off-road capable, lightest ORV in range |
 | Outdoors RV Blackstone 280RKS | ~28 ft | 34'11" | Rear kitchen couples rig — longest ORV in range |
-| Jayco Eagle HT (verify TT listing) | varies | ~29–35 ft | 2016 / early 2017 only — confirm travel trailer before pursuing |
 
-> **"est." = estimated** from floor length + known tongue patterns. Confirm actual total length from spec sheet before buying.
+> Floor lengths marked "~" are approximate. Total lengths are drawn from manufacturer spec sheets and confirmed owner community data — always verify against the actual unit's spec sheet before committing to a purchase.
 
 ---
 
@@ -319,7 +318,6 @@ Across almost every brand, **2016–2018 is the buy window** and **2019 is where
 | Arctic Fox (25W / 25Y / 28F / 29L / 32A) | $22,000 – $42,000 (32A commands premium) |
 | Grand Design Imagine (2800BH / 2970RL) | $18,000 – $32,000 |
 | Outdoors RV Timber Ridge / Blackstone | $20,000 – $35,000 |
-| Jayco Eagle HT | $18,000 – $30,000 |
 | Nash 29S | $16,000 – $28,000 |
 | Lance 2465 / 2565 | $18,000 – $30,000 |
 | Rockwood Signature 8329SS | $15,000 – $26,000 |
