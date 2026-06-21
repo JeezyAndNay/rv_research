@@ -24,11 +24,10 @@ The RV industry has a systemic quality control problem. These are largely handbu
 | **1A** | Arctic Fox (Northwood Mfg.) | Best structural quality in the category. Oregon-built, owner-fabricated frames, true 4-season. |
 | **1A** | Lance (2965 / 2985) | Equally excellent. Aluminum construction, consistent QC, premium owner community. |
 | **1B** | Nash (Northwood Mfg.) | Same factory/builder as Arctic Fox, slightly less premium finish. Underrated and underpriced. |
-| **1B** | Grand Design Reflection 150 | Best Indiana-built option. Strong 2016–2018 years. Founders were still hands-on. |
+| **1B** | Grand Design Imagine | Best Indiana-built travel trailer option. Strong 2016–2018 years. Founders were still hands-on. |
 | **1C** | Outdoors RV (Timber Ridge / Blackstone) | Excellent build quality, Oregon-built. Limited size range and thin used inventory. |
 | **1C** | Jayco Eagle | Premium Jayco line (not the Jay Flight). 2016 is the target year — Thor acquisition changed things. |
 | **2** | Forest River Rockwood Signature | Above-average for Forest River. 2016–2017 only. Unit condition matters more than brand here. |
-| **2** | Grand Design Imagine | Solid secondary option. Same platform as Reflection, slightly thinner materials. |
 | **Skip** | Keystone (any line) | Persistent water intrusion, cabinetry failures, wiring issues. Volume junk. |
 | **Skip** | Coachmen | Multiple recalls, cheap components, sustained QC complaints. |
 | **Skip** | Thor budget lines (Kodiak, etc.) | Bottom of the barrel. Volume-driven, poor finish. |
@@ -43,20 +42,20 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ---
 
-### Grand Design Reflection 150 (Travel Trailer)
+### Grand Design Imagine (Travel Trailer)
 
-**Relevant models:** 303RLS · 312BHTS · 297RSTS · 315RLTS | **Size range:** 30–33 ft
+**Relevant models:** 2970RL · 3000BH · 3100RD · 3150BH · 3210BH | **Size range:** 29–33 ft
 
 | Year | Rating | Notes |
 |---|---|---|
 | 2016 | ✅ Best | Founders still heavily involved. Peak quality and attention to detail. Pre-growth-at-all-costs era. |
-| 2017 | ✅ Best | Interior/exterior refresh. 303RLS from this year routinely reports 50K–70K miles with minimal issues. |
-| 2018 | ✅ Good | Still solid. Minor mid-year component changes but generally well-regarded. 303RLS praised consistently. |
-| 2019 | ⚠️ Caution | Start of QC slippage. More delamination, frame, and warranty support complaints. Still better than competitors but a step below 2016–2018. |
+| 2017 | ✅ Best | Solid build year. Owner satisfaction high. Good long-term durability reports across multiple floor plans. |
+| 2018 | ✅ Good | Still solid. Minor mid-year component changes but generally well-regarded. |
+| 2019 | ⚠️ Caution | Start of QC slippage. More delamination, frame, and warranty support complaints. Still better than most Indiana competitors but a step below 2016–2018. |
 
-**Known issues (all years):** Furrion 12V refrigerator failures, occasional frame rust on early models, wall delamination on some units, drawers not staying closed.
+**Known issues (all years):** Furrion 12V refrigerator failures, furnace vent placement (most heat routes to bathroom, not living area), single outlet circuit can overload when running two appliances simultaneously, some awning leak reports on slide-out seams.
 
-**Verdict:** Buy 2016–2018. 2019 is the start of the slide. The 303RLS rear-living floor plan is the most consistently praised layout in this line.
+**Verdict:** Buy 2016–2018. 2019 is the start of the slide. The 2970RL rear-living and 3100RD floor plans are the most consistently praised layouts in this line.
 
 ---
 
@@ -184,7 +183,7 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 | Brand / Model | ✅ Buy These Years | ⚠️ Approach Carefully | ❌ Avoid |
 |---|---|---|---|
-| Grand Design Reflection 150 | 2016, 2017, 2018 | 2019 | — |
+| Grand Design Imagine | 2016, 2017, 2018 | 2019 | — |
 | Jayco Eagle | 2016, early 2017 | Late 2017, 2018 | 2019 |
 | Arctic Fox (Northwood) | 2016, 2017 | 2018, 2019 | — |
 | Nash (Northwood) | 2016, 2017 | 2018, 2019 | — |
@@ -198,9 +197,9 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 | Model | Approx. Length | Notes |
 |---|---|---|
-| Grand Design Reflection 150 303RLS | ~30 ft | King bed, rear living — most praised floor plan in the line |
-| Grand Design Reflection 150 312BHTS | ~31 ft | Bunkhouse layout |
-| Grand Design Reflection 150 315RLTS | ~33 ft | Rear living, larger format |
+| Grand Design Imagine 2970RL | ~30 ft | Rear living — most praised Imagine floor plan |
+| Grand Design Imagine 3100RD | ~31 ft | Rear den/living room layout |
+| Grand Design Imagine 3150BH | ~32 ft | Bunkhouse option |
 | Jayco Eagle 293RKDS | ~30 ft | Rear kitchen, solid pre-Thor build |
 | Jayco Eagle 330RSTS | ~34 ft | Larger rear suite — check manufacture date carefully |
 | Arctic Fox 29.5T | ~30 ft | Oregon-built, rear kitchen, very popular layout |
@@ -229,7 +228,7 @@ Across almost every brand, **2016–2018 is the buy window** and **2019 is where
 |---|---|---|
 | Water intrusion | Every seam, corner, window, slide-out, roof | Soft spots, staining, musty smell |
 | Delamination | Run hand along exterior walls | Bubbles, ripples, soft areas = past water damage |
-| Frame condition | Look under the trailer | Rust — especially 2016–2017 Grand Designs |
+| Frame condition | Look under the trailer | Rust — especially early Grand Design Imagine models |
 | Roof condition | EPDM rubber roofs should be pliable, no cracks | Cracking, brittleness, open seams |
 | Slide-outs | Run every slide in and out | Check all four sides of each seal strip |
 | Holding tanks | Black tank valve — should close fully | Incomplete closure = chronic problem |
@@ -244,9 +243,9 @@ Across almost every brand, **2016–2018 is the buy window** and **2019 is where
 |---|---|
 | Lance 2965 / 2985 | $28,000 – $45,000 |
 | Arctic Fox 29.5T / 32A | $25,000 – $40,000 |
-| Grand Design Reflection 150 | $22,000 – $38,000 |
-| Jayco Eagle | $18,000 – $32,000 |
 | Outdoors RV Timber Ridge / Blackstone | $20,000 – $35,000 |
+| Grand Design Imagine | $18,000 – $32,000 |
+| Jayco Eagle | $18,000 – $32,000 |
 | Nash 29S | $16,000 – $28,000 |
 | Rockwood Signature | $15,000 – $28,000 |
 
@@ -260,8 +259,9 @@ Across almost every brand, **2016–2018 is the buy window** and **2019 is where
 - [5 Best Travel Trailer Brands (And 5 To Avoid) — SlashGear](https://www.slashgear.com/1760551/travel-trailer-brands-best-worst/)
 - [Most Reliable Used RV Brands — El Monte RV](https://www.elmonterv.com/rv-sales/blog/most-reliable-used-rv-brands)
 - [6 Travel Trailer Brands to Avoid — CamperGuide](https://camperguide.org/travel-trailer-brands-avoid/)
-- [Grand Design Reflection Reviews — RV Insider](https://www.rvinsider.com/Grand-Design-Reflection-Travel-Trailers-RV-Reviews)
-- [Used 2014–2018 Reflection 303RLS Owner Feedback — MyGrandRV Forum](https://www.mygrandrv.com/threads/used-2014-to-2018-reflection-303rls-owner-feedback.2201914/)
+- [Grand Design Imagine Reviews — RV Insider](https://www.rvinsider.com/Grand-Design-Imagine-RV-Reviews)
+- [Grand Design Imagine 2800BH Review — RV Travel](https://www.rvtravel.com/rv-review-grand-design-imagine-2800bh-travel-trailer/)
+- [Grand Design Quality Discussion — MyGrandRV Forum](https://www.mygrandrv.com/threads/grand-design-quality.33788/)
 - [Is Thor Using Lower Quality Components? — Jayco Owners Forum](https://www.jaycoowners.com/threads/is-thor-using-lower-quality-components-than-pre-thor-jayco-was.526910/)
 - [The Sale of Jayco to Thor Industries — RV LIFE](https://rvlife.com/jayco-inc-sold-to-thor-industries/)
 - [Arctic Fox Quality — iRV2 Forums](https://www.irv2.com/threads/arctic-fox-quality.1958626/)
