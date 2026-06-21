@@ -144,6 +144,7 @@ LABELS = {
     "05_product_list":                                     "Product List",
     # Used RV Info
     "01_used_travel_trailer_guide_2016_2019":               "Used Travel Trailer Guide — 2016–2019",
+    "02_used_rv_inspection_guide_and_report_template":      "Inspection Guide & Report Template",
     # Outdoors RV extras
     "01_deep_dive_all_4_floor_plans":                      "Deep Dive — Original 4 Plans",
     "06_deep_dive_250rks_250rds_260krs_25dvs":             "Deep Dive — New Floor Plans",
