@@ -45,7 +45,7 @@ The RV industry has a systemic quality control problem. These are largely handbu
 | **1B** | Grand Design Imagine | Best Indiana-built travel trailer option. Strong 2016–2018 years. Multiple floor plans fit the total length range. |
 | **1C** | Outdoors RV (Timber Ridge / Blackstone) | Excellent build quality, Oregon-built. Limited size range and thin used inventory. |
 | **1C** | Jayco Eagle HT | Jayco's premium travel trailer line. **Not the Jay Flight (budget) or Eagle (fifth wheel).** Verify each listing is a travel trailer. |
-| **2** | Forest River Rockwood Signature 8289WS | Above-average for Forest River. 2016–2017 only. Only the 8289WS fits the total length range. |
+| **2** | Forest River Rockwood Signature | Above-average for Forest River. 2017 only. Only the 8329SS is a travel trailer in range — the 8289WS has a similar name but is a fifth wheel. |
 | **Skip** | Keystone (any line) | Persistent water intrusion, cabinetry failures, wiring issues. Volume junk. |
 | **Skip** | Coachmen | Multiple recalls, cheap components, sustained QC complaints. |
 | **Skip** | Thor budget lines | Bottom of the barrel. Volume-driven, poor finish. |
@@ -101,7 +101,8 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ### Arctic Fox — Northwood Manufacturing (Travel Trailer)
 
-**Models within 28–35 ft total:** 29.5T (~31–32 ft total, est.) · 32A (34'4" total, confirmed)
+**Models within 28–35 ft total:** 32A (34'4" total, confirmed)
+**⚠️ FIFTH WHEEL — do not buy:** 29.5T (33'11" total) — frequently mislisted as a travel trailer. Verify ball coupler on any Arctic Fox before pursuing.
 
 | Year | Rating | Notes |
 |---|---|---|
@@ -125,7 +126,7 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ### Nash — Northwood Manufacturing (Travel Trailer)
 
-**Models within 28–35 ft total:** 29S (~33–34 ft total, est.)
+**Models within 28–35 ft total:** 29S (32'4" total, confirmed)
 
 | Year | Rating | Notes |
 |---|---|---|
@@ -142,7 +143,7 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ### Outdoors RV — Timber Ridge & Blackstone (Travel Trailer)
 
-**Models within 28–35 ft total:** Timber Ridge 28BHS (~33–34 ft total, est.) · Blackstone 280RKS (~33–34 ft total, est.)
+**Models within 28–35 ft total:** Timber Ridge 28BKS (32'8" total, confirmed) · Blackstone 280RKS (34'11" total, confirmed)
 
 | Year | Rating | Notes |
 |---|---|---|
@@ -180,17 +181,20 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ### Forest River Rockwood Signature
 
-**Models within 28–35 ft total:** 8289WS (~33–34 ft total, est.) only
-**Models that exceed 35 ft total:** 8329SS (~37–38 ft total) · 8335BSS (~38–40 ft total) — both outside range
+**Models within 28–35 ft total:** 8329SS (34'9" total, confirmed — travel trailer)
+**Models that exceed 35 ft total:** 8335BSS (~38–40 ft total) — outside range.
+**⚠️ FIFTH WHEEL — do not buy:** 8289WS (33'11" total) — commonly appears alongside TT listings in this series. Has a very similar model number to the 8329SS. Confirm ball coupler (not kingpin/pin box) on any Rockwood Signature before pursuing.
 
 | Year | Rating | Notes |
 |---|---|---|
-| 2016 | ✅ Good | One 8289WS owner reported zero issues for two years. |
-| 2017 | ✅ Best | Best year for this line. 8289WS consistently praised. |
-| 2018 | ⚠️ Caution | More inconsistent. More rattling, peeling surfaces, early component failures. |
+| 2016 | N/A | 8329SS travel trailer not offered in 2016. |
+| 2017 | ✅ Best | Best year for the 8329SS. Three slides, solid owner reports. |
+| 2018 | ⚠️ Caution | More inconsistent. Rattling, peeling surfaces, early component failures reported. |
 | 2019 | ⚠️ Caution | Broader Forest River QC issues. Pre-purchase inspection non-negotiable. |
 
-**Verdict:** 8289WS only, 2016–2017 only. Everything else in this line either doesn't fit the range or isn't worth the QC risk.
+**Context:** Forest River is a massive volume manufacturer. The Rockwood Signature is their better line — but that's relative. Individual unit condition matters more here than brand name.
+
+**Verdict:** 8329SS only, 2017 is the best bet. 2018 acceptable with rigorous pre-purchase inspection. **Always confirm listing type — the 8289WS (fifth wheel, same series) has a nearly identical model number.**
 
 ---
 
@@ -204,7 +208,7 @@ The RV industry has a systemic quality control problem. These are largely handbu
 | Nash (Northwood) | 2016, 2017 | 2018, 2019 | — |
 | Outdoors RV (Timber Ridge / Blackstone) | 2017, 2018 | 2016, 2019 | — |
 | Lance (2465 / 2565) | 2017, 2018 | 2016, 2019 | — |
-| Forest River Rockwood Signature 8289WS | 2016, 2017 | 2018 | 2019 |
+| Forest River Rockwood Signature 8329SS | 2017 | 2018 | 2019 |
 
 ---
 
@@ -217,14 +221,13 @@ All lengths below are **total trailer length**.
 | Grand Design Imagine 2600RB | ~24'8" | ~29'8" | Rear bedroom — lower end of range |
 | Grand Design Imagine 2800BH | ~28'0" | ~32'0" | Bunkhouse, popular floor plan |
 | Grand Design Imagine 2970RL | ~29'10" | ~34'2" | Rear living — most praised Imagine layout |
-| Arctic Fox 29.5T | ~29'6" | ~31–32 ft est. | Oregon-built, rear kitchen |
 | Arctic Fox 32A | ~32'0" | 34'4" | Largest Arctic Fox TT — right at ceiling |
-| Nash 29S | ~29'0" | ~33–34 ft est. | Northwood quality at lower price |
+| Nash 29S | ~29'0" | 32'4" | Northwood quality at lower price |
 | Lance 2565 | 25'6" | 30'5" | Best build quality, lower end of range |
 | Lance 2465 | ~24'6" | ~28–30 ft est. | Single slide, slightly shorter than 2565 |
-| Forest River Rockwood Signature 8289WS | ~28–29 ft | ~33–34 ft est. | 2016–2017 only |
-| Outdoors RV Timber Ridge 28BHS | ~28'0" | ~33–34 ft est. | Off-road capable, hard to find used |
-| Outdoors RV Blackstone 280RKS | ~28'0" | ~33–34 ft est. | More residential than Timber Ridge |
+| Forest River Rockwood Signature 8329SS | ~29–30 ft | 34'9" | 2017 only; verify TT — 8289WS has nearly identical name but is a fifth wheel |
+| Outdoors RV Timber Ridge 28BKS | ~28'0" | 32'8" | Off-road capable, hard to find used |
+| Outdoors RV Blackstone 280RKS | ~28'0" | 34'11" | More residential than Timber Ridge |
 | Jayco Eagle HT (verify TT listing) | varies | ~29–35 ft | 2016 / early 2017 only — confirm travel trailer before pursuing |
 
 > **"est." = estimated** from floor length + known tongue patterns. Confirm actual total length from spec sheet before buying.
@@ -259,13 +262,13 @@ Across almost every brand, **2016–2018 is the buy window** and **2019 is where
 
 | Brand / Model | Typical Used Range (2016–2019) |
 |---|---|
-| Arctic Fox 29.5T / 32A | $25,000 – $40,000 |
+| Arctic Fox 32A | $25,000 – $40,000 |
 | Grand Design Imagine (2800BH / 2970RL) | $18,000 – $32,000 |
 | Outdoors RV Timber Ridge / Blackstone | $20,000 – $35,000 |
 | Jayco Eagle HT | $18,000 – $30,000 |
 | Nash 29S | $16,000 – $28,000 |
 | Lance 2465 / 2565 | $18,000 – $30,000 |
-| Rockwood Signature 8289WS | $15,000 – $26,000 |
+| Rockwood Signature 8329SS | $15,000 – $26,000 |
 
 > Anything priced significantly below these ranges has a reason. Water damage and frame issues can turn a cheap deal into a $20K+ nightmare.
 
