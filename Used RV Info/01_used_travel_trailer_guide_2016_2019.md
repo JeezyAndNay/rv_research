@@ -101,8 +101,27 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ### Arctic Fox — Northwood Manufacturing (Travel Trailer)
 
-**Models within 28–35 ft total:** 32A (34'4" total, confirmed)
-**⚠️ FIFTH WHEEL — do not buy:** 29.5T (33'11" total) — frequently mislisted as a travel trailer. Verify ball coupler on any Arctic Fox before pursuing.
+Northwood offered multiple travel trailer models in 2016–2019. Five fit the 28–35 ft total range:
+
+**Models confirmed within 28–35 ft total:**
+
+| Model | Sub-line | Total Length | Notes |
+|---|---|---|---|
+| 25W | Classic | 29'6" | Single slide, rear kitchen |
+| 25Y | Classic | 30'0" | Single slide, rear bath layout |
+| 28F | Silver Fox Edition | 30'0" | Two slides, higher trim level |
+| 29L | Silver Fox Edition | 32'0" | Two slides, rear living room |
+| 32A | Flagship | 34'4" | Largest Arctic Fox TT — right at ceiling |
+
+**Models outside range or not TTs:**
+- 22G (~26 ft total) — below range
+- 24J (~28 ft total) — borderline; verify spec sheet before pursuing
+- 25R (27'3" total) — just below range
+- 29RK — "North Fork" series introduced after 2019, not available in this era
+- **29.5T** (33'11" total) — **FIFTH WHEEL**, frequently mislisted as a TT
+- **29.5K** — **FIFTH WHEEL**
+
+**Classic vs. Silver Fox Edition:** The Classic series (22G / 24J / 25R / 25W / 25Y) is the base Arctic Fox TT line — still fully four-season with Northwood's structural standards, but simpler layouts with fewer slides. The Silver Fox Edition (28F / 29L) adds higher interior trim, more slides, and larger floor plans. All share the same core construction: owner-fabricated frames, multi-layer laminated walls, heated/enclosed tanks, IronHorse proprietary chassis.
 
 | Year | Rating | Notes |
 |---|---|---|
@@ -221,7 +240,11 @@ All lengths below are **total trailer length**.
 | Grand Design Imagine 2600RB | ~24'8" | ~29'8" | Rear bedroom — lower end of range |
 | Grand Design Imagine 2800BH | ~28'0" | ~32'0" | Bunkhouse, popular floor plan |
 | Grand Design Imagine 2970RL | ~29'10" | ~34'2" | Rear living — most praised Imagine layout |
-| Arctic Fox 32A | ~32'0" | 34'4" | Largest Arctic Fox TT — right at ceiling |
+| Arctic Fox 25W | ~25 ft | 29'6" | Classic series — single slide, rear kitchen |
+| Arctic Fox 25Y | ~25 ft | 30'0" | Classic series — single slide, rear bath |
+| Arctic Fox 28F | ~28 ft | 30'0" | Silver Fox Edition — two slides |
+| Arctic Fox 29L | ~29 ft | 32'0" | Silver Fox Edition — two slides, rear living |
+| Arctic Fox 32A | ~32 ft | 34'4" | Flagship TT — right at ceiling |
 | Nash 29S | ~29'0" | 32'4" | Northwood quality at lower price |
 | Lance 2565 | 25'6" | 30'5" | Best build quality, lower end of range |
 | Lance 2465 | ~24'6" | ~28–30 ft est. | Single slide, slightly shorter than 2565 |
@@ -262,7 +285,7 @@ Across almost every brand, **2016–2018 is the buy window** and **2019 is where
 
 | Brand / Model | Typical Used Range (2016–2019) |
 |---|---|
-| Arctic Fox 32A | $25,000 – $40,000 |
+| Arctic Fox (25W / 25Y / 28F / 29L / 32A) | $22,000 – $42,000 (32A commands premium) |
 | Grand Design Imagine (2800BH / 2970RL) | $18,000 – $32,000 |
 | Outdoors RV Timber Ridge / Blackstone | $20,000 – $35,000 |
 | Jayco Eagle HT | $18,000 – $30,000 |
