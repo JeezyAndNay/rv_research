@@ -26,7 +26,7 @@ from urllib.parse import urlparse, unquote, parse_qs
 REPO = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else Path.cwd()
 PORT = int(sys.argv[2]) if len(sys.argv) > 2 else 8080
 
-BRAND_ORDER = ["Outdoors RV", "Alliance", "Ember RV", "Grand Design", "Keystone RV", "Lance", "Used RV Info"]
+BRAND_ORDER = ["Used RV Info", "Outdoors RV", "Alliance", "Ember RV", "Grand Design", "Keystone RV", "Lance"]
 
 BRAND_COLORS = {
     "Overview":      "#58a6ff",
