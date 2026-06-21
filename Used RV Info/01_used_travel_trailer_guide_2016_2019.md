@@ -1,19 +1,37 @@
 # Used Travel Trailer Guide — 2016–2019
 
-> **Scope:** Travel trailers only (no fifth wheels) · 28–35 ft · 2016–2019 model years
+> **Scope:** Travel trailers only (no fifth wheels) · 28–35 ft **total trailer length** · 2016–2019 model years
 > Research compiled from owner forums, RV survey data (200K+ RVers), and community consensus — not dealer content, not manufacturer marketing.
+
+---
+
+## Critical: Floor Length vs. Total Length
+
+**Manufacturers advertise floor (box) length — not total trailer length.** The RVIA standard says the advertised length is the living space only, excluding the tongue and rear bumper. The tongue adds **4–6 feet** on most travel trailers.
+
+| Model | Floor Length | Total Length |
+|---|---|---|
+| Lance 2565 | 25'6" | **30'5"** |
+| Grand Design Imagine 2600RB | ~24'8" | **~29'8"** |
+| Grand Design Imagine 2800BH | ~28'0" | **~32'0"** |
+| Grand Design Imagine 2970RL | ~29'10" | **~34'2"** |
+| Arctic Fox 32A | ~32'0" | **34'4"** |
+
+**28–35 ft total = floor lengths of roughly 23–30 feet.** Any trailer with a floor length over 30 feet will likely exceed 35 feet total. When a dealer says a trailer is "32 feet," they almost certainly mean the floor — the actual trailer is closer to 37 feet.
+
+> When booking campsites or measuring storage, use **total length**. When reading listings, the number you see is almost always **floor length**.
 
 ---
 
 ## The Core Truth About This Market
 
-The RV industry has a systemic quality control problem. These are largely handbuilt at high volume — even the "good" brands have horror stories. That said, some builders are *consistently* better than others, and the 2016–2019 window is a genuinely decent era to buy used. Why:
+The RV industry has a systemic quality control problem. These are largely handbuilt at high volume — even the "good" brands have horror stories. That said, some builders are *consistently* better than others, and the 2016–2019 window is a genuinely decent era to buy used:
 
 - **Pre-2019 manufacturing quality was generally better** — 2019+ is when most Indiana brands started cutting corners harder
 - **Break-in gremlins have already been found and fixed** by prior owners
-- **Pricing is more reasonable** than 2020–2022 era units that got inflated during the pandemic RV boom
+- **Pricing is more reasonable** than 2020–2022 pandemic-era units
 
-**The single most important dividing line in this market:** Pacific Northwest manufacturers (Northwood, Outdoors RV) vs. Indiana manufacturers (Grand Design, Jayco, Forest River, etc.). PNW brands build at lower volume with better materials for harsh-weather use. Indiana brands build at scale for the campground crowd. This difference is real and significant.
+**The single most important dividing line in this market:** Pacific Northwest manufacturers (Northwood, Outdoors RV) vs. Indiana manufacturers (Grand Design, Jayco, Forest River, etc.). PNW brands build at lower volume with better materials for harsh-weather use. Indiana brands build at scale for the campground crowd.
 
 ---
 
@@ -22,73 +40,75 @@ The RV industry has a systemic quality control problem. These are largely handbu
 | Tier | Brand | Why |
 |---|---|---|
 | **1A** | Arctic Fox (Northwood Mfg.) | Best structural quality in the category. Oregon-built, owner-fabricated frames, true 4-season. |
-| **1A** | Lance (2965 / 2985) | Equally excellent. Aluminum construction, consistent QC, premium owner community. |
+| **1A** | Lance (2465 / 2565) | Excellent build quality, consistent QC. Note: Lance TTs top out ~30–31 ft total — lower end of range. |
 | **1B** | Nash (Northwood Mfg.) | Same factory/builder as Arctic Fox, slightly less premium finish. Underrated and underpriced. |
-| **1B** | Grand Design Imagine | Best Indiana-built travel trailer option. Strong 2016–2018 years. Founders were still hands-on. |
+| **1B** | Grand Design Imagine | Best Indiana-built travel trailer option. Strong 2016–2018 years. Multiple floor plans fit the total length range. |
 | **1C** | Outdoors RV (Timber Ridge / Blackstone) | Excellent build quality, Oregon-built. Limited size range and thin used inventory. |
-| **1C** | Jayco Eagle | Premium Jayco line (not the Jay Flight). 2016 is the target year — Thor acquisition changed things. |
-| **2** | Forest River Rockwood Signature | Above-average for Forest River. 2016–2017 only. Unit condition matters more than brand here. |
+| **1C** | Jayco Eagle HT | Jayco's premium travel trailer line. **Not the Jay Flight (budget) or Eagle (fifth wheel).** Verify each listing is a travel trailer. |
+| **2** | Forest River Rockwood Signature 8289WS | Above-average for Forest River. 2016–2017 only. Only the 8289WS fits the total length range. |
 | **Skip** | Keystone (any line) | Persistent water intrusion, cabinetry failures, wiring issues. Volume junk. |
 | **Skip** | Coachmen | Multiple recalls, cheap components, sustained QC complaints. |
-| **Skip** | Thor budget lines (Kodiak, etc.) | Bottom of the barrel. Volume-driven, poor finish. |
+| **Skip** | Thor budget lines | Bottom of the barrel. Volume-driven, poor finish. |
 | **Skip** | Forest River base lines (Wildwood, Cherokee) | Entry-level pricing = entry-level quality. |
-| **Skip** | Jayco Jay Flight | Budget Jayco line. Not the same product as the Eagle. Avoid. |
+| **Skip** | Jayco Jay Flight | Budget Jayco line. Not the Eagle HT. Avoid. |
+| **Skip** | Jayco Eagle (non-HT) | Fifth wheel line. Easy to confuse with Eagle HT travel trailer. |
 
 ---
 
 ## Best & Worst Years by Make/Model
 
-> Year-specific data sourced from owner forums (iRV2, Good Sam, Jayco Owners Forum, MyGrandRV), the RV Travel massive owner survey, and documented community consensus. The RV industry does not publish model-year change logs — this is community-derived intelligence.
+> Year-specific data sourced from owner forums (iRV2, Good Sam, Jayco Owners Forum, MyGrandRV), the RV Travel massive owner survey, and documented community consensus.
 
 ---
 
 ### Grand Design Imagine (Travel Trailer)
 
-**Relevant models:** 2970RL · 3000BH · 3100RD · 3150BH · 3210BH | **Size range:** 29–33 ft
+**Models within 28–35 ft total:** 2600RB (~29'8" total) · 2800BH (~32'0" total) · 2950RL / 2970RL (~34'2" total)
+**Models that exceed 35 ft total — skip:** 3100RD · 3150BH · 3210BH (floor lengths ~31–33 ft push total to 36–39 ft)
 
 | Year | Rating | Notes |
 |---|---|---|
-| 2016 | ✅ Best | Founders still heavily involved. Peak quality and attention to detail. Pre-growth-at-all-costs era. |
-| 2017 | ✅ Best | Solid build year. Owner satisfaction high. Good long-term durability reports across multiple floor plans. |
-| 2018 | ✅ Good | Still solid. Minor mid-year component changes but generally well-regarded. |
-| 2019 | ⚠️ Caution | Start of QC slippage. More delamination, frame, and warranty support complaints. Still better than most Indiana competitors but a step below 2016–2018. |
+| 2016 | ✅ Best | Founders still heavily involved. Peak quality and attention to detail. |
+| 2017 | ✅ Best | Solid build year. Owner satisfaction high across multiple floor plans. |
+| 2018 | ✅ Good | Minor mid-year component changes but generally well-regarded. |
+| 2019 | ⚠️ Caution | Start of QC slippage — more delamination and warranty support complaints. Still better than most Indiana competitors but a step below 2016–2018. |
 
-**Known issues (all years):** Furrion 12V refrigerator failures, furnace vent placement (most heat routes to bathroom, not living area), single outlet circuit can overload when running two appliances simultaneously, some awning leak reports on slide-out seams.
+**Known issues (all years):** Furrion 12V refrigerator failures, furnace vent routes most heat to bathroom not living area, single outlet circuit overloads when running two appliances, some awning leak reports.
 
-**Verdict:** Buy 2016–2018. 2019 is the start of the slide. The 2970RL rear-living and 3100RD floor plans are the most consistently praised layouts in this line.
+**Verdict:** Buy 2016–2018. The 2800BH and 2970RL are the most consistently praised floor plans. Stick to models with floor lengths under ~30 ft to stay within your total length ceiling.
 
 ---
 
-### Jayco Eagle (Travel Trailer — NOT the Jay Flight)
+### Jayco Eagle HT (Travel Trailer — NOT the Eagle fifth wheel, NOT the Jay Flight)
 
-**Relevant models:** 293RKDS · 330RSTS · 324BHOK · 321RSTS | **Size range:** 29–35 ft
+**Important naming note:** Jayco uses "Eagle" for a fifth wheel line AND "Eagle HT" for a travel trailer line. Some listings mislabel them. Confirm the listing explicitly says **Travel Trailer**. Verify physically: fifth wheels have a kingpin/pin box; travel trailers have a ball coupler.
+
+**Floor plans in range:** Eagle HT models in 2017–2018 ranged from ~29 ft to ~35 ft total. Multiple floor plans fit. Verify each model number against a confirmed spec sheet before pursuing — do not rely on listing titles alone.
 
 | Year | Rating | Notes |
 |---|---|---|
-| 2016 | ✅ Best | Pre-Thor or very early Thor — production lines unchanged. Most sought-after Eagles on the used market. |
+| 2016 | ✅ Best | Pre-Thor or very early Thor — best build quality. |
 | Early 2017 | ✅ Good | Thor acquisition closed June 2016. Early 2017 units were already in pipeline — relatively clean. |
-| Late 2017 | ⚠️ Caution | Thor component substitutions begin: residential fridges GE → Insignia, AC units Coleman → Dometic. |
-| 2018 | ⚠️ Caution | Thor cost-cutting more fully propagated. More complaints about cabinetry, slide sealing, particle board use. |
-| 2019 | ❌ Avoid | Full Thor-era production. Multiple reports of build quality decline, warranty denials, poor post-purchase support. |
+| Late 2017 | ⚠️ Caution | Thor component substitutions begin: fridges GE → Insignia, AC Coleman → Dometic. |
+| 2018 | ⚠️ Caution | Thor cost-cutting more fully propagated. More cabinetry, slide sealing, and particle board complaints. |
+| 2019 | ❌ Avoid | Full Thor-era production. Warranty denials, declining build quality, poor post-purchase support. |
 
-**The Thor dividing line:** Thor Industries acquired Jayco in July 2016. The Eagle you're buying before vs. after that acquisition is a meaningfully different product. The forum community is consistent on this.
+**Pro tip:** Check the manufacture date sticker on the entry door jamb. A "2017" model can be built as early as fall 2016 (pre-Thor) or as late as mid-2017 (post-Thor changes).
 
-**Pro tip:** Check the manufacture date sticker on the entry door frame. A "2017" model can be built as early as fall 2016 (pre-Thor changes) or as late as mid-2017 (post-Thor changes). The sticker tells you what you're actually getting.
-
-**Verdict:** 2016 is the sweet spot. Early 2017 is acceptable. 2018–2019 you're gambling.
+**Verdict:** 2016 is the sweet spot. Early 2017 acceptable. 2018–2019 you're gambling. Search specifically for **"Jayco Eagle HT Travel Trailer"** and verify type before proceeding.
 
 ---
 
 ### Arctic Fox — Northwood Manufacturing (Travel Trailer)
 
-**Relevant models:** 29.5T · 32A | **Size range:** 29–32 ft
+**Models within 28–35 ft total:** 29.5T (~31–32 ft total, est.) · 32A (34'4" total, confirmed)
 
 | Year | Rating | Notes |
 |---|---|---|
-| 2016 | ✅ Best | Peak Arctic Fox. 30U and 28F owners consistently report outstanding quality and zero issues. |
-| 2017 | ✅ Best | Co-equal with 2016. Multiple owners report zero repairs across hundreds of road trips. Brand reputation at its highest. |
-| 2018 | ✅ Good | Structurally excellent. Some owners who traded from 2014/2015 units noted slightly reduced interior fit and finish. |
-| 2019 | ⚠️ Caution | More fit/finish complaints vs. earlier models. Structurally still sound — better than any Indiana brand. |
+| 2016 | ✅ Best | Peak Arctic Fox. Owners consistently report outstanding quality and zero issues. |
+| 2017 | ✅ Best | Co-equal with 2016. Multiple owners report zero repairs across hundreds of road trips. |
+| 2018 | ✅ Good | Structurally excellent. Some noted slightly reduced interior fit and finish vs. 2014–2016. |
+| 2019 | ⚠️ Caution | More fit/finish complaints. Structurally still sound — still better than any Indiana brand. |
 
 **What makes it structurally superior:**
 - Northwood builds their own frames — one of the only manufacturers that does
@@ -97,85 +117,80 @@ The RV industry has a systemic quality control problem. These are largely handbu
 - Heated and enclosed holding tanks — real 4-season, not marketing
 - IronHorse proprietary chassis
 
-**Critical warning:** Do NOT confuse **Arctic Fox** (Northwood, Oregon) with **Arctic Wolf** (Forest River, Indiana). Completely different product. The Arctic Wolf is a cheap Forest River budget trailer with a deliberately similar name.
+**Critical warning:** Do NOT confuse **Arctic Fox** (Northwood, Oregon) with **Arctic Wolf** (Forest River, Indiana). Deliberately similar name. Completely different — inferior — product.
 
-**Verdict:** 2016–2017 are peak years. 2018 is still excellent. 2019 shows a slight dip but still outperforms Indiana competition.
+**Verdict:** 2016–2017 peak years. 2018 still excellent. 2019 slight dip — still outperforms Indiana competition.
 
 ---
 
 ### Nash — Northwood Manufacturing (Travel Trailer)
 
-**Relevant models:** 29S · Nash DLX variants | **Size range:** 28–30 ft
+**Models within 28–35 ft total:** 29S (~33–34 ft total, est.)
 
 | Year | Rating | Notes |
 |---|---|---|
 | 2016 | ✅ Best | Same factory and build philosophy as Arctic Fox. |
-| 2017 | ✅ Best | Consistently praised. One owner reported 30,000 miles over 6 years with only cosmetic wear. |
-| 2018 | ✅ Good | Minor fit/finish variations but structurally consistent with earlier years. |
-| 2019 | ⚠️ Caution | Slight trend mirroring Arctic Fox. Still best value in the class but less tight than 2016–2017. |
+| 2017 | ✅ Best | One owner reported 30,000 miles over 6 years with only cosmetic wear. |
+| 2018 | ✅ Good | Minor fit/finish variations but structurally consistent. |
+| 2019 | ⚠️ Caution | Slight trend mirroring Arctic Fox. Still best value in the class. |
 
-**The Nash tradeoff:** Same bones as Arctic Fox. What you give up is interior finish — Nash interiors are dated across all years. If you want durability per dollar, Nash is underrated and underpriced.
+**The Nash tradeoff:** Same bones as Arctic Fox. Interior finish is dated across all years. If you want durability per dollar, Nash is underrated and underpriced — people overlook it for aesthetics.
 
-**Size caveat:** Nash tops out around 29–30 ft in this era. If 33–35 ft is a hard requirement, Nash doesn't get you there.
-
-**Verdict:** 2016–2017 sweet spot. Same trajectory as Arctic Fox — same builder, same risks, same strengths.
+**Verdict:** 2016–2017 sweet spot. Same builder as Arctic Fox.
 
 ---
 
 ### Outdoors RV — Timber Ridge & Blackstone (Travel Trailer)
 
-**Relevant models:** Timber Ridge 28BHS · Blackstone 280RKS | **Size range:** 26–30 ft
+**Models within 28–35 ft total:** Timber Ridge 28BHS (~33–34 ft total, est.) · Blackstone 280RKS (~33–34 ft total, est.)
 
 | Year | Rating | Notes |
 |---|---|---|
-| 2016 | ✅ Good | One documented bad Timber Ridge unit (considered an anomaly, not a pattern). |
-| 2017 | ✅ Best | Most reviews from this year are very positive. Company in its stride. |
-| 2018 | ✅ Best | Strong year. High owner satisfaction. Praised for off-road capability and build consistency. |
-| 2019 | ✅ Good | No significant quality decline documented. Small production scale insulated them from the Indiana volume rush. |
+| 2016 | ✅ Good | One documented bad unit (anomaly, not pattern). |
+| 2017 | ✅ Best | Most reviews from this year are very positive. |
+| 2018 | ✅ Best | Strong year. High owner satisfaction. Praised for off-road capability and consistency. |
+| 2019 | ✅ Good | No significant quality decline. Small scale insulated them from Indiana's volume rush. |
 
-**What makes it stand out:**
-- Aluminum frame construction
-- Shocks on all four corners (standard)
-- Designed specifically for off-road and off-grid use
-- Smaller company = better unit-to-unit QC consistency
+**What makes it stand out:** Aluminum frame, shocks on all four corners standard, designed for off-road/off-grid, small production = better unit-to-unit consistency.
 
-**The tradeoffs:** Floor plan variety is very limited, size ceiling is lower than Indiana peers, dealer network is thin, and used inventory is hard to find.
+**The tradeoffs:** Very limited floor plan variety, thin used inventory, small dealer network.
 
-**Verdict:** 2017–2018 are the sweet spot. All four years are acceptable. Bigger risk is *finding one* in your size range than choosing the wrong year.
+**Verdict:** 2017–2018 sweet spot. All four years acceptable. Bigger risk is finding one than choosing the wrong year.
 
 ---
 
-### Lance Travel Trailers (2965 / 2985)
+### Lance Travel Trailers (2465 / 2565)
 
-**Relevant models:** 2965 (~30 ft) · 2985 (~32 ft)
+**Models within 28–35 ft total:** 2465 (~28–30 ft total, est.) · 2565 (30'5" total, confirmed)
+
+> **Range note:** Lance's travel trailer lineup tops out around 30–31 ft total in this era. These models sit at the **lower end** of the 28–35 ft window. If you need 33–35 ft total, Lance doesn't get you there.
 
 | Year | Rating | Notes |
 |---|---|---|
 | 2016 | ✅ Good | Solid year, consistent with Lance's reputation. |
-| 2017 | ✅ Best | Most consistent year per forum consensus. Very few systemic issues reported. |
-| 2018 | ✅ Best | Equally strong. Lance maintained quality controls better than competitors through this period. |
+| 2017 | ✅ Best | Most consistent year per forum consensus. Very few systemic issues. |
+| 2018 | ✅ Best | Equally strong. Lance maintained QC better than Indiana brands through this period. |
 | 2019 | ✅ Good | Still solid. Lance didn't chase volume growth — QC held. |
 
-**The one persistent Lance issue (ALL years):** Their flat roof design ponds water instead of shedding it. This is a *design flaw*, not a manufacturing defect. Keep roof drains clear and reseal regularly, or water damage follows. On any used Lance, inspect the roof carefully and ask about drain maintenance history.
+**The one persistent Lance issue (ALL years):** Flat roof design ponds water instead of shedding it. Design flaw, not manufacturing defect — on every year. Keep roof drains clear, reseal regularly. Inspect the roof carefully on any used Lance.
 
-**Verdict:** 2017–2018 are the best years, but there is no "avoid" year for Lance in this window. Most consistent brand year-over-year on this list.
+**Verdict:** 2017–2018 best years. No "avoid" year in this window. Most consistent brand year-over-year. Best for buyers toward the lower end of the 28–35 ft range.
 
 ---
 
 ### Forest River Rockwood Signature
 
-**Relevant models:** 8289WS · 8329SS · 8335BSS | **Size range:** 28–34 ft
+**Models within 28–35 ft total:** 8289WS (~33–34 ft total, est.) only
+**Models that exceed 35 ft total:** 8329SS (~37–38 ft total) · 8335BSS (~38–40 ft total) — both outside range
 
 | Year | Rating | Notes |
 |---|---|---|
-| 2016 | ✅ Good | Multiple owners report positive experiences. One 8289WS owner reported zero issues for two years. |
-| 2017 | ✅ Best | Best year for this line. 8289WS consistently praised. Several owners cite it as "the good year." |
-| 2018 | ⚠️ Caution | Quality becomes more inconsistent. More reports of rattling, peeling surfaces, early component failures. |
-| 2019 | ⚠️ Caution | Broader Forest River QC issues. Volume pressure showing. Pre-purchase inspection non-negotiable. |
+| 2016 | ✅ Good | One 8289WS owner reported zero issues for two years. |
+| 2017 | ✅ Best | Best year for this line. 8289WS consistently praised. |
+| 2018 | ⚠️ Caution | More inconsistent. More rattling, peeling surfaces, early component failures. |
+| 2019 | ⚠️ Caution | Broader Forest River QC issues. Pre-purchase inspection non-negotiable. |
 
-**Context:** Forest River is a massive volume manufacturer. The Rockwood Signature is their *better* line — but that's a relative statement. Individual unit condition matters more here than brand name.
-
-**Verdict:** 2016–2017 are the only years worth buying in this line. 2018–2019 risk curve rises sharply.
+**Verdict:** 8289WS only, 2016–2017 only. Everything else in this line either doesn't fit the range or isn't worth the QC risk.
 
 ---
 
@@ -183,71 +198,74 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 | Brand / Model | ✅ Buy These Years | ⚠️ Approach Carefully | ❌ Avoid |
 |---|---|---|---|
-| Grand Design Imagine | 2016, 2017, 2018 | 2019 | — |
-| Jayco Eagle | 2016, early 2017 | Late 2017, 2018 | 2019 |
+| Grand Design Imagine (2600RB, 2800BH, 2970RL) | 2016, 2017, 2018 | 2019 | — |
+| Jayco Eagle HT (verify TT listing) | 2016, early 2017 | Late 2017, 2018 | 2019 |
 | Arctic Fox (Northwood) | 2016, 2017 | 2018, 2019 | — |
 | Nash (Northwood) | 2016, 2017 | 2018, 2019 | — |
 | Outdoors RV (Timber Ridge / Blackstone) | 2017, 2018 | 2016, 2019 | — |
-| Lance (2965 / 2985) | 2017, 2018 | 2016, 2019 | — |
-| Forest River Rockwood Signature | 2016, 2017 | 2018 | 2019 |
+| Lance (2465 / 2565) | 2017, 2018 | 2016, 2019 | — |
+| Forest River Rockwood Signature 8289WS | 2016, 2017 | 2018 | 2019 |
 
 ---
 
 ## Short List — Specific Models to Search
 
-| Model | Approx. Length | Notes |
-|---|---|---|
-| Grand Design Imagine 2970RL | ~30 ft | Rear living — most praised Imagine floor plan |
-| Grand Design Imagine 3100RD | ~31 ft | Rear den/living room layout |
-| Grand Design Imagine 3150BH | ~32 ft | Bunkhouse option |
-| Jayco Eagle 293RKDS | ~30 ft | Rear kitchen, solid pre-Thor build |
-| Jayco Eagle 330RSTS | ~34 ft | Larger rear suite — check manufacture date carefully |
-| Arctic Fox 29.5T | ~30 ft | Oregon-built, rear kitchen, very popular layout |
-| Arctic Fox 32A | ~32 ft | Largest Arctic Fox TT in this era |
-| Nash 29S | ~29 ft | Underrated, Northwood quality at lower price |
-| Lance 2985 | ~31 ft | Best build quality in the class, harder to find |
-| Lance 2965 | ~29 ft | Slightly smaller Lance option |
-| Forest River Rockwood Signature 8289WS | ~29 ft | Best Rockwood floor plan from the good years |
-| Forest River Rockwood Signature 8329SS | ~33 ft | Larger format — 2016–2017 only |
+All lengths below are **total trailer length**.
+
+| Model | Floor Length | Total Length | Notes |
+|---|---|---|---|
+| Grand Design Imagine 2600RB | ~24'8" | ~29'8" | Rear bedroom — lower end of range |
+| Grand Design Imagine 2800BH | ~28'0" | ~32'0" | Bunkhouse, popular floor plan |
+| Grand Design Imagine 2970RL | ~29'10" | ~34'2" | Rear living — most praised Imagine layout |
+| Arctic Fox 29.5T | ~29'6" | ~31–32 ft est. | Oregon-built, rear kitchen |
+| Arctic Fox 32A | ~32'0" | 34'4" | Largest Arctic Fox TT — right at ceiling |
+| Nash 29S | ~29'0" | ~33–34 ft est. | Northwood quality at lower price |
+| Lance 2565 | 25'6" | 30'5" | Best build quality, lower end of range |
+| Lance 2465 | ~24'6" | ~28–30 ft est. | Single slide, slightly shorter than 2565 |
+| Forest River Rockwood Signature 8289WS | ~28–29 ft | ~33–34 ft est. | 2016–2017 only |
+| Outdoors RV Timber Ridge 28BHS | ~28'0" | ~33–34 ft est. | Off-road capable, hard to find used |
+| Outdoors RV Blackstone 280RKS | ~28'0" | ~33–34 ft est. | More residential than Timber Ridge |
+| Jayco Eagle HT (verify TT listing) | varies | ~29–35 ft | 2016 / early 2017 only — confirm travel trailer before pursuing |
+
+> **"est." = estimated** from floor length + known tongue patterns. Confirm actual total length from spec sheet before buying.
 
 ---
 
 ## The Industry Pattern
 
-Across almost every brand, **2016–2018 is the buy window** and **2019 is where risk increases**. This tracks with a documented industry-wide trend: post-2018, Indiana manufacturers ramped production volume aggressively and QC consistency suffered. The Pacific Northwest brands were more insulated — smaller volumes, different culture — but even they show a slight dip by 2019.
+Across almost every brand, **2016–2018 is the buy window** and **2019 is where risk increases.** Post-2018, Indiana manufacturers ramped volume aggressively and QC suffered. Pacific Northwest brands were more insulated but show a slight dip by 2019.
 
-**The Jayco Eagle is the exception.** The dividing line there is 2016 vs. 2017+, driven by the Thor Industries acquisition in mid-2016.
+**Jayco Eagle HT is the exception** — the dividing line is 2016 vs. 2017+, driven by the Thor Industries acquisition in mid-2016, not the 2019 industry trend.
 
 ---
 
 ## Pre-Purchase Inspection Checklist
 
-**This matters more than which brand you buy.**
-
 | Inspection Point | What to Look For | Red Flag |
 |---|---|---|
 | Water intrusion | Every seam, corner, window, slide-out, roof | Soft spots, staining, musty smell |
-| Delamination | Run hand along exterior walls | Bubbles, ripples, soft areas = past water damage |
+| Delamination | Run hand along exterior walls | Bubbles, ripples, soft spots = past water damage |
 | Frame condition | Look under the trailer | Rust — especially early Grand Design Imagine models |
-| Roof condition | EPDM rubber roofs should be pliable, no cracks | Cracking, brittleness, open seams |
+| Roof condition | EPDM rubber should be pliable, no cracks | Cracking, brittleness, open seams |
 | Slide-outs | Run every slide in and out | Check all four sides of each seal strip |
-| Holding tanks | Black tank valve — should close fully | Incomplete closure = chronic problem |
+| Holding tanks | Black tank valve should close fully | Incomplete closure = chronic problem |
 | Maintenance records | Ask for documentation | No records = assume worst |
-| Independent inspection | Hire NRVIA-certified inspector — [NRVIA.org](https://nrvia.org) | Cost $150–$300 — not optional at this price point |
+| Total length | Measure before buying | Match against campsite and storage dimensions |
+| Independent inspection | Hire NRVIA-certified inspector — [NRVIA.org](https://nrvia.org) | $150–$300 — not optional at this price point |
 
 ---
 
 ## Used Market Pricing Reference (2026)
 
-| Brand / Line | Typical Used Range (2016–2019) |
+| Brand / Model | Typical Used Range (2016–2019) |
 |---|---|
-| Lance 2965 / 2985 | $28,000 – $45,000 |
 | Arctic Fox 29.5T / 32A | $25,000 – $40,000 |
+| Grand Design Imagine (2800BH / 2970RL) | $18,000 – $32,000 |
 | Outdoors RV Timber Ridge / Blackstone | $20,000 – $35,000 |
-| Grand Design Imagine | $18,000 – $32,000 |
-| Jayco Eagle | $18,000 – $32,000 |
+| Jayco Eagle HT | $18,000 – $30,000 |
 | Nash 29S | $16,000 – $28,000 |
-| Rockwood Signature | $15,000 – $28,000 |
+| Lance 2465 / 2565 | $18,000 – $30,000 |
+| Rockwood Signature 8289WS | $15,000 – $26,000 |
 
 > Anything priced significantly below these ranges has a reason. Water damage and frame issues can turn a cheap deal into a $20K+ nightmare.
 
@@ -255,6 +273,8 @@ Across almost every brand, **2016–2018 is the buy window** and **2019 is where
 
 ## Sources
 
+- [How Is A Travel Trailer Measured? — Reset Your Journey](https://resetyourjourney.com/how-is-a-travel-trailer-measured-length-from-hitch-or-body/)
+- [How Is the Length of a Travel Trailer Measured? — Trail and Summit](https://trailandsummit.com/how-is-the-length-of-a-travel-trailer-measured/)
 - [Massive RV Owner Survey — RV Travel](https://www.rvtravel.com/massive-rv-owner-survey-reveals-brands-years/)
 - [5 Best Travel Trailer Brands (And 5 To Avoid) — SlashGear](https://www.slashgear.com/1760551/travel-trailer-brands-best-worst/)
 - [Most Reliable Used RV Brands — El Monte RV](https://www.elmonterv.com/rv-sales/blog/most-reliable-used-rv-brands)
@@ -264,11 +284,11 @@ Across almost every brand, **2016–2018 is the buy window** and **2019 is where
 - [Grand Design Quality Discussion — MyGrandRV Forum](https://www.mygrandrv.com/threads/grand-design-quality.33788/)
 - [Is Thor Using Lower Quality Components? — Jayco Owners Forum](https://www.jaycoowners.com/threads/is-thor-using-lower-quality-components-than-pre-thor-jayco-was.526910/)
 - [The Sale of Jayco to Thor Industries — RV LIFE](https://rvlife.com/jayco-inc-sold-to-thor-industries/)
+- [2017 Jayco Eagle HT 314BHDS Travel Trailer — EagleRVOnline](https://www.eaglervonline.com/specifications-2017-jayco-eagle-ht-travel-trailer-floorplan-314bhds-tr30661)
 - [Arctic Fox Quality — iRV2 Forums](https://www.irv2.com/threads/arctic-fox-quality.1958626/)
 - [Northwood Arctic Fox 28F Reviews — RV Insider](https://www.rvinsider.com/Northwood-Arctic-Fox-28F-28-F-RV-Reviews)
 - [Nash Travel Trailers — IFish Forum](https://www.ifish.net/threads/nash-travel-trailers.164326/)
 - [Outdoors RV Reviews — RV Insider](https://www.rvinsider.com/Outdoors-Rv-Travel-Trailers-RV-Reviews)
 - [Rockwood Quality & Reliability — Forest River Forums](https://www.forestriverforums.com/threads/rockwood-quality-reliability.380057/)
 - [Lance Trailer Quality — Good Sam Community](https://community.goodsam.com/discussions/traveltrailerforum-board/lance-trailer-quality/1818636)
-- [Quality Travel Trailer: Lance, Nash, Arctic Fox — Good Sam Community](https://community.goodsam.com/discussions/traveltrailerforum-board/quality-travel-trailer---lance-nash-arctic-fox-etc/2180704/)
 - [Beware of Arctic Wolf (not Arctic Fox) — Forest River Forums](https://www.forestriverforums.com/threads/beware-of-2019-arctic-fox-sorry-arctic-wolf.297385/)
