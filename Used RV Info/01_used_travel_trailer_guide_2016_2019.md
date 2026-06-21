@@ -43,8 +43,8 @@ The RV industry has a systemic quality control problem. These are largely handbu
 | **1A** | Lance (2465 / 2565) | Excellent build quality, consistent QC. Note: Lance TTs top out ~30–31 ft total — lower end of range. |
 | **1B** | Nash (Northwood Mfg.) | Same factory/builder as Arctic Fox, slightly less premium finish. Underrated and underpriced. |
 | **1B** | Grand Design Imagine | Best Indiana-built travel trailer option. Strong 2016–2018 years. Multiple floor plans fit the total length range. |
-| **1C** | Outdoors RV (Timber Ridge / Blackstone) | Excellent build quality, Oregon-built. Limited size range and thin used inventory. |
-| **1C** | Jayco Eagle HT | Jayco's premium travel trailer line. **Not the Jay Flight (budget) or Eagle (fifth wheel).** Verify each listing is a travel trailer. |
+| **1C** | Outdoors RV (BackCountry / Timber Ridge / Blackstone) | Excellent build quality, Oregon-built. Four confirmed in-range floor plans across three sub-lines. Thin used inventory. |
+| **Too Large** | Jayco Eagle HT TT | Good quality, wrong size. All Eagle HT TT floor plans exceed 35 ft total — smallest model (314BHDS) is 37'3". Does not fit the 28–35 ft spec. |
 | **2** | Forest River Rockwood Signature | Above-average for Forest River. 2017 only. Only the 8329SS is a travel trailer in range — the 8289WS has a similar name but is a fifth wheel. |
 | **Skip** | Keystone (any line) | Persistent water intrusion, cabinetry failures, wiring issues. Volume junk. |
 | **Skip** | Coachmen | Multiple recalls, cheap components, sustained QC complaints. |
@@ -91,23 +91,19 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ---
 
-### Jayco Eagle HT (Travel Trailer — NOT the Eagle fifth wheel, NOT the Jay Flight)
+### Jayco Eagle HT (Travel Trailer) — ⚠️ Outside Your Size Range
 
-**Important naming note:** Jayco uses "Eagle" for a fifth wheel line AND "Eagle HT" for a travel trailer line. Some listings mislabel them. Confirm the listing explicitly says **Travel Trailer**. Verify physically: fifth wheels have a kingpin/pin box; travel trailers have a ball coupler.
+**The Eagle HT TT does not fit the 28–35 ft total spec.** The confirmed TT floor plans in this era are the 314BHDS (37'3" total) and 324BHTS (38'+ total). Both exceed the ceiling by more than 2 feet. No Eagle HT TT floor plan fits the 28–35 ft total range in 2016–2019.
 
-**Floor plans in range:** Eagle HT models in 2017–2018 ranged from ~29 ft to ~35 ft total. Multiple floor plans fit. Verify each model number against a confirmed spec sheet before pursuing — do not rely on listing titles alone.
+**Naming minefield — read this before searching:**
+- **Jayco Eagle (no HT)** — fifth wheel line. Not a travel trailer.
+- **Jayco Eagle HT Fifth Wheel** — model numbers use decimal notation: 26.5RLS, 27.5RLTS, 28.5BHXB, 29.5BHDS, etc. All fifth wheels.
+- **Jayco Eagle HT Travel Trailer** — model numbers use 3-digit format: 314BHDS, 324BHTS. These ARE travel trailers, but they're 37+ ft total — outside your range.
+- **Jayco Jay Flight** — budget TT line. Different product entirely.
 
-| Year | Rating | Notes |
-|---|---|---|
-| 2016 | ✅ Best | Pre-Thor or very early Thor — best build quality. |
-| Early 2017 | ✅ Good | Thor acquisition closed June 2016. Early 2017 units were already in pipeline — relatively clean. |
-| Late 2017 | ⚠️ Caution | Thor component substitutions begin: fridges GE → Insignia, AC Coleman → Dometic. |
-| 2018 | ⚠️ Caution | Thor cost-cutting more fully propagated. More cabinetry, slide sealing, and particle board complaints. |
-| 2019 | ❌ Avoid | Full Thor-era production. Warranty denials, declining build quality, poor post-purchase support. |
+**If your size spec ever expands past 35 ft total:** The pre-Thor Eagle HT TT (2016 and early 2017) is legitimately good quality. Thor Industries acquired Jayco in mid-2016 and began degrading components — fridges GE → Insignia, AC Coleman → Dometic. The manufacture date sticker on the entry door jamb tells you exactly when a unit was built.
 
-**Pro tip:** Check the manufacture date sticker on the entry door jamb. A "2017" model can be built as early as fall 2016 (pre-Thor) or as late as mid-2017 (post-Thor changes).
-
-**Verdict:** 2016 is the sweet spot. Early 2017 acceptable. 2018–2019 you're gambling. Search specifically for **"Jayco Eagle HT Travel Trailer"** and verify type before proceeding.
+**For your current spec (28–35 ft total): skip Jayco entirely.** No Jayco TT in this era fits the range without dropping to the Jay Flight budget tier.
 
 ---
 
@@ -157,7 +153,13 @@ Northwood offered multiple travel trailer models in 2016–2019. Five fit the 28
 
 ### Nash — Northwood Manufacturing (Travel Trailer)
 
-**Models within 28–35 ft total:** 29S (32'4" total, confirmed)
+**Models confirmed within 28–35 ft total:**
+
+| Model | Total Length | Notes |
+|---|---|---|
+| 25C | 28'8" | Single slide — just inside the lower range limit |
+| 26N | 29'2" | Single slide |
+| 29S | 32'4" | Largest Nash TT — most commonly found used |
 
 | Year | Rating | Notes |
 |---|---|---|
@@ -172,9 +174,18 @@ Northwood offered multiple travel trailer models in 2016–2019. Five fit the 28
 
 ---
 
-### Outdoors RV — Timber Ridge & Blackstone (Travel Trailer)
+### Outdoors RV — BackCountry, Timber Ridge & Blackstone (Travel Trailer)
 
-**Models within 28–35 ft total:** Timber Ridge 28BKS (32'8" total, confirmed) · Blackstone 280RKS (34'11" total, confirmed)
+**Models confirmed within 28–35 ft total:**
+
+| Model | Series | Total Length | Notes |
+|---|---|---|---|
+| BackCountry 26RPS | BackCountry | 31'8" | Two slides, rear private suite — most off-grid capable |
+| BackCountry 28DBS | BackCountry | 33'0" | Bunkhouse, dual entry — most owner-reviewed model |
+| Timber Ridge 28BKS | Timber Ridge | 32'8" | Bunkhouse — lightest of the four |
+| Blackstone 280RKS | Blackstone | 34'11" | Rear kitchen couples rig — longest in lineup |
+
+> **BackCountry availability note:** The BackCountry line existed in the 2016–2019 era but specific floor plan introductions are hard to confirm for individual years. Verify the 26RPS and 28DBS were produced in your target year before searching.
 
 | Year | Rating | Notes |
 |---|---|---|
@@ -193,7 +204,7 @@ Northwood offered multiple travel trailer models in 2016–2019. Five fit the 28
 
 ### Lance Travel Trailers (2465 / 2565)
 
-**Models within 28–35 ft total:** 2465 (~28–30 ft total, est.) · 2565 (30'5" total, confirmed)
+**Models within 28–35 ft total:** 2465 (29'10" total, confirmed) · 2565 (30'5" total, confirmed)
 
 > **Range note:** Lance's travel trailer lineup tops out around 30–31 ft total in this era. These models sit at the **lower end** of the 28–35 ft window. If you need 33–35 ft total, Lance doesn't get you there.
 
@@ -233,13 +244,13 @@ Northwood offered multiple travel trailer models in 2016–2019. Five fit the 28
 
 | Brand / Model | ✅ Buy These Years | ⚠️ Approach Carefully | ❌ Avoid |
 |---|---|---|---|
-| Grand Design Imagine (2600RB, 2800BH, 2970RL) | 2016, 2017, 2018 | 2019 | — |
-| Jayco Eagle HT (verify TT listing) | 2016, early 2017 | Late 2017, 2018 | 2019 |
+| Grand Design Imagine | 2016, 2017, 2018 | 2019 | — |
 | Arctic Fox (Northwood) | 2016, 2017 | 2018, 2019 | — |
 | Nash (Northwood) | 2016, 2017 | 2018, 2019 | — |
-| Outdoors RV (Timber Ridge / Blackstone) | 2017, 2018 | 2016, 2019 | — |
+| Outdoors RV (BackCountry / Timber Ridge / Blackstone) | 2017, 2018 | 2016, 2019 | — |
 | Lance (2465 / 2565) | 2017, 2018 | 2016, 2019 | — |
 | Forest River Rockwood Signature 8329SS | 2017 | 2018 | 2019 |
+| Jayco Eagle HT TT | ❌ All models exceed 35 ft total — outside range | | |
 
 ---
 
@@ -261,12 +272,16 @@ All lengths below are **total trailer length**.
 | Arctic Fox 28F | ~28 ft | 30'0" | Silver Fox Edition — two slides |
 | Arctic Fox 29L | ~29 ft | 32'0" | Silver Fox Edition — two slides, rear living |
 | Arctic Fox 32A | ~32 ft | 34'4" | Flagship TT — right at ceiling |
-| Nash 29S | ~29'0" | 32'4" | Northwood quality at lower price |
+| Nash 25C | ~25 ft | 28'8" | Classic Northwood quality, lower end of range |
+| Nash 26N | ~26 ft | 29'2" | Single slide |
+| Nash 29S | ~29 ft | 32'4" | Largest Nash TT — most commonly found used |
 | Lance 2565 | 25'6" | 30'5" | Best build quality, lower end of range |
-| Lance 2465 | ~24'6" | ~28–30 ft est. | Single slide, slightly shorter than 2565 |
+| Lance 2465 | ~24'6" | 29'10" | Single slide, slightly shorter than 2565 |
 | Forest River Rockwood Signature 8329SS | ~29–30 ft | 34'9" | 2017 only; verify TT — 8289WS has nearly identical name but is a fifth wheel |
-| Outdoors RV Timber Ridge 28BKS | ~28'0" | 32'8" | Off-road capable, hard to find used |
-| Outdoors RV Blackstone 280RKS | ~28'0" | 34'11" | More residential than Timber Ridge |
+| Outdoors RV BackCountry 26RPS | ~26 ft | 31'8" | Off-road focused, rear suite — verify year availability |
+| Outdoors RV BackCountry 28DBS | ~28 ft | 33'0" | Bunkhouse, most reviewed ORV model — verify year availability |
+| Outdoors RV Timber Ridge 28BKS | ~28 ft | 32'8" | Off-road capable, lightest ORV in range |
+| Outdoors RV Blackstone 280RKS | ~28 ft | 34'11" | Rear kitchen couples rig — longest ORV in range |
 | Jayco Eagle HT (verify TT listing) | varies | ~29–35 ft | 2016 / early 2017 only — confirm travel trailer before pursuing |
 
 > **"est." = estimated** from floor length + known tongue patterns. Confirm actual total length from spec sheet before buying.
