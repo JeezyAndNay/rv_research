@@ -26,16 +26,17 @@ from urllib.parse import urlparse, unquote, parse_qs
 REPO = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else Path.cwd()
 PORT = int(sys.argv[2]) if len(sys.argv) > 2 else 8080
 
-BRAND_ORDER = ["Outdoors RV", "Alliance", "Ember RV", "Grand Design", "Keystone RV", "Lance"]
+BRAND_ORDER = ["Outdoors RV", "Alliance", "Ember RV", "Grand Design", "Keystone RV", "Lance", "Used RV Info"]
 
 BRAND_COLORS = {
-    "Overview":    "#58a6ff",
-    "Alliance":    "#f0883e",
-    "Ember RV":    "#e05c2e",
-    "Grand Design":"#3fb950",
-    "Keystone RV": "#79c0ff",
-    "Lance":       "#a371f7",
-    "Outdoors RV": "#56d364",
+    "Overview":      "#58a6ff",
+    "Alliance":      "#f0883e",
+    "Ember RV":      "#e05c2e",
+    "Grand Design":  "#3fb950",
+    "Keystone RV":   "#79c0ff",
+    "Lance":         "#a371f7",
+    "Outdoors RV":   "#56d364",
+    "Used RV Info":  "#d29922",
 }
 
 # External links per brand.
@@ -119,6 +120,7 @@ def doc_type(stem: str) -> str:
     if "walkthrough" in s:   return "script"
     if "maintenance" in s:   return "maint"
     if "product"    in s:    return "products"
+    if "guide"      in s:    return "guide"
     return ""
 
 LABELS = {
@@ -140,6 +142,8 @@ LABELS = {
     "03_pdi_walkthrough_script":                           "PDI Walkthrough Script",
     "04_seasonal_maintenance_schedule":                    "Maintenance Schedule",
     "05_product_list":                                     "Product List",
+    # Used RV Info
+    "01_used_travel_trailer_guide_2016_2019":               "Used Travel Trailer Guide — 2016–2019",
     # Outdoors RV extras
     "01_deep_dive_all_4_floor_plans":                      "Deep Dive — Original 4 Plans",
     "06_deep_dive_250rks_250rds_260krs_25dvs":             "Deep Dive — New Floor Plans",
@@ -262,6 +266,7 @@ body{display:flex;height:100vh;font:14px/1.5 -apple-system,BlinkMacSystemFont,"S
 .b-products{background:#0d2040;color:#58a6ff}
 .b-compare {background:#0a2828;color:#39c9bb}
 .b-index   {background:#202020;color:#8b949e}
+.b-guide   {background:#2d1f00;color:#d29922}
 
 /* ── external links ── */
 .link-icons{display:flex;gap:5px;padding-right:2px;flex-shrink:0}
@@ -420,6 +425,7 @@ async function loadTree() {
           : file.badge === 'products' ? 'Products'
           : file.badge === 'compare'  ? 'Compare'
           : file.badge === 'index'    ? 'Index'
+          : file.badge === 'guide'    ? 'Guide'
           : file.badge;
         btn.appendChild(badge);
       }
