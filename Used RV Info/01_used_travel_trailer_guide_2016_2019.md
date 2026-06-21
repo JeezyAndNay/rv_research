@@ -63,8 +63,20 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 ### Grand Design Imagine (Travel Trailer)
 
-**Models within 28–35 ft total:** 2600RB (~29'8" total) · 2800BH (~32'0" total) · 2950RL / 2970RL (~34'2" total)
-**Models that exceed 35 ft total — skip:** 3100RD · 3150BH · 3210BH (floor lengths ~31–33 ft push total to 36–39 ft)
+**Models confirmed within 28–35 ft total:**
+
+| Model | Total Length | Notes |
+|---|---|---|
+| 2500RL | 29'10" | Rear living room — lower end of range |
+| 2600RB | 29'8" | Rear bedroom — lower end of range |
+| 2670MK | 32'3" | Murphy bed floor plan |
+| 2700BS | 31'8" | Bunkhouse |
+| 2800BH | 32'0" | Bunkhouse — most widely sold floor plan |
+| 2950RL | 33'8" | Rear living room — 2016–2018 |
+| 2970RL | 34'2" | Rear living room — 2018–2019 update to 2950RL |
+
+**Models that exceed 35 ft total — skip:** 3100RD (35'11") · 3150BH · 3210BH
+**Below range:** 2300MK (26'6" total)
 
 | Year | Rating | Notes |
 |---|---|---|
@@ -75,7 +87,7 @@ The RV industry has a systemic quality control problem. These are largely handbu
 
 **Known issues (all years):** Furrion 12V refrigerator failures, furnace vent routes most heat to bathroom not living area, single outlet circuit overloads when running two appliances, some awning leak reports.
 
-**Verdict:** Buy 2016–2018. The 2800BH and 2970RL are the most consistently praised floor plans. Stick to models with floor lengths under ~30 ft to stay within your total length ceiling.
+**Verdict:** Buy 2016–2018. The 2800BH and 2970RL are the most consistently praised floor plans. The 2950RL is the 2016–2018 predecessor to the 2970RL — both are excellent. All seven in-range models are worth considering; check the total length table above against your campsite and storage dimensions before narrowing down.
 
 ---
 
@@ -237,9 +249,13 @@ All lengths below are **total trailer length**.
 
 | Model | Floor Length | Total Length | Notes |
 |---|---|---|---|
-| Grand Design Imagine 2600RB | ~24'8" | ~29'8" | Rear bedroom — lower end of range |
-| Grand Design Imagine 2800BH | ~28'0" | ~32'0" | Bunkhouse, popular floor plan |
-| Grand Design Imagine 2970RL | ~29'10" | ~34'2" | Rear living — most praised Imagine layout |
+| Grand Design Imagine 2500RL | ~25 ft | 29'10" | Rear living room — lower end of range |
+| Grand Design Imagine 2600RB | ~26 ft | 29'8" | Rear bedroom — lower end of range |
+| Grand Design Imagine 2670MK | ~27 ft | 32'3" | Murphy bed floor plan |
+| Grand Design Imagine 2700BS | ~27 ft | 31'8" | Bunkhouse |
+| Grand Design Imagine 2800BH | ~28 ft | 32'0" | Bunkhouse — most widely sold floor plan |
+| Grand Design Imagine 2950RL | ~30 ft | 33'8" | Rear living room (2016–2018) |
+| Grand Design Imagine 2970RL | ~30 ft | 34'2" | Rear living room (2018–2019) |
 | Arctic Fox 25W | ~25 ft | 29'6" | Classic series — single slide, rear kitchen |
 | Arctic Fox 25Y | ~25 ft | 30'0" | Classic series — single slide, rear bath |
 | Arctic Fox 28F | ~28 ft | 30'0" | Silver Fox Edition — two slides |
